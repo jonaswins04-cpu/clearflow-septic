@@ -1,0 +1,24 @@
+<svg width="1050" height="600" viewBox="0 0 1050 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1050" height="600" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="14" height="600" fill="#0C8FB0"/>
+  <text x="72" y="128" font-family="Figtree" font-size="52" font-weight="800" fill="#0D4A6B" letter-spacing="-1">Jonas</text>
+  <text x="72" y="170" font-family="Figtree" font-size="26" font-weight="600" fill="#0C8FB0" letter-spacing="1">Owner</text>
+  <g font-family="Figtree">
+    <text x="72" y="258" font-size="22" font-weight="700" fill="#0D4A6B" letter-spacing="3">CALL / TEXT</text>
+    <text x="72" y="296" font-size="34" font-weight="600" fill="#1B2830">778-392-6313</text>
+
+    <text x="72" y="358" font-size="22" font-weight="700" fill="#0D4A6B" letter-spacing="3">EMAIL</text>
+    <text x="72" y="396" font-size="30" font-weight="600" fill="#1B2830">clearflowseptic@gmail.com</text>
+
+    <text x="72" y="458" font-size="22" font-weight="700" fill="#0D4A6B" letter-spacing="3">WEBSITE</text>
+    <text x="72" y="496" font-size="30" font-weight="600" fill="#1B2830">www.clearflowseptic.ca</text>
+  </g>
+  <!-- logo lockup centered as a unit on axis x=812, vertically centered -->
+  <g stroke-linecap="round" fill="none" transform="translate(642,232)">
+    <path d="M0 0 Q85 -47 170 0 T340 0" stroke="#0D4A6B" stroke-width="19"/>
+    <path d="M0 62 Q85 15 170 62 T340 62" stroke="#0C8FB0" stroke-width="19"/>
+    <path d="M0 124 Q85 77 170 124 T340 124" stroke="#9BDCEF" stroke-width="19"/>
+  </g>
+  <text x="812" y="430" font-family="Figtree" font-size="33" font-weight="700" fill="#0D4A6B" text-anchor="middle" letter-spacing="5">CLEARFLOW</text>
+  <text x="812" y="463" font-family="Figtree" font-size="19" font-weight="600" fill="#0C8FB0" text-anchor="middle" letter-spacing="10">SEPTIC · BC</text>
+</svg>

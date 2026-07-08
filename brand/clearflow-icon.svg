@@ -1,0 +1,7 @@
+<svg width="240" height="200" viewBox="0 0 240 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke-linecap="round" fill="none">
+    <path d="M40 60 Q90 30 140 60 T240 60" stroke="#0D4A6B" stroke-width="14" transform="translate(-20,0)"/>
+    <path d="M40 100 Q90 70 140 100 T240 100" stroke="#0C8FB0" stroke-width="14" transform="translate(-20,0)"/>
+    <path d="M40 140 Q90 110 140 140 T240 140" stroke="#9BDCEF" stroke-width="14" transform="translate(-20,0)"/>
+  </g>
+</svg>

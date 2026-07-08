@@ -1,0 +1,23 @@
+<svg width="1050" height="600" viewBox="0 0 1050 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1050" height="600" fill="#0D4A6B"/>
+  <g stroke-linecap="round" fill="none" opacity="0.14">
+    <path d="M680 150 Q810 60 940 150 T1200 150" stroke="#9BDCEF" stroke-width="15"/>
+    <path d="M680 235 Q810 145 940 235 T1200 235" stroke="#9BDCEF" stroke-width="15"/>
+    <path d="M680 320 Q810 230 940 320 T1200 320" stroke="#9BDCEF" stroke-width="15"/>
+    <path d="M680 405 Q810 315 940 405 T1200 405" stroke="#9BDCEF" stroke-width="15"/>
+    <path d="M680 490 Q810 400 940 490 T1200 490" stroke="#9BDCEF" stroke-width="15"/>
+  </g>
+  <!-- even vertical rhythm: logo, then lettering lines spaced evenly, balanced top & bottom margins -->
+  <g stroke-linecap="round" fill="none" transform="translate(72,84)">
+    <path d="M0 0 Q46 -25 92 0 T184 0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M0 36 Q46 11 92 36 T184 36" stroke="#0C8FB0" stroke-width="11"/>
+    <path d="M0 72 Q46 47 92 72 T184 72" stroke="#9BDCEF" stroke-width="11"/>
+  </g>
+  <text x="72" y="256" font-family="Figtree" font-size="70" font-weight="800" fill="#FFFFFF" letter-spacing="-2">Clear<tspan fill="#9BDCEF">flow</tspan></text>
+  <text x="76" y="304" font-family="Figtree" font-size="26" font-weight="700" fill="#9BDCEF" letter-spacing="11">SEPTIC SYSTEMS</text>
+  <rect x="76" y="338" width="64" height="4" fill="#0C8FB0"/>
+  <text x="72" y="402" font-family="Figtree" font-size="33" font-weight="700" fill="#FFFFFF">Design · Install · Inspection · Repair</text>
+  <text x="72" y="450" font-family="Figtree" font-size="27" font-weight="500" fill="#EFF7FA">Serving all of British Columbia</text>
+  <text x="72" y="498" font-family="Figtree" font-size="27" font-weight="600" fill="#9BDCEF" font-style="italic">Quality work at a fair price</text>
+  <text x="72" y="552" font-family="Figtree" font-size="20" font-weight="500" fill="#7FB8CF" letter-spacing="1">A division of Kootenay Earth Worx</text>
+</svg>

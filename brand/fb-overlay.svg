@@ -1,0 +1,15 @@
+<svg width="1640" height="624" viewBox="0 0 1640 624" xmlns="http://www.w3.org/2000/svg">
+  <!-- Safe zone: keep key content within x≈420–1220 (center) for mobile crop.
+       We anchor text left-center but inside mobile-safe area. -->
+  <!-- logo mark -->
+  <g stroke-linecap="round" fill="none" transform="translate(150,150)">
+    <path d="M0 0 Q60 -34 120 0 T240 0" stroke="#FFFFFF" stroke-width="15"/>
+    <path d="M0 46 Q60 12 120 46 T240 46" stroke="#0C8FB0" stroke-width="15"/>
+    <path d="M0 92 Q60 58 120 92 T240 92" stroke="#9BDCEF" stroke-width="15"/>
+  </g>
+  <text x="150" y="360" font-family="Figtree" font-size="88" font-weight="800" fill="#FFFFFF" letter-spacing="-2">Clear<tspan fill="#9BDCEF">flow</tspan> Septic</text>
+  <text x="156" y="410" font-family="Figtree" font-size="30" font-weight="700" fill="#9BDCEF" letter-spacing="8">DESIGN · INSTALL · INSPECTION · REPAIR</text>
+  <rect x="156" y="440" width="70" height="5" fill="#0C8FB0"/>
+  <text x="150" y="502" font-family="Figtree" font-size="34" font-weight="600" fill="#EFF7FA">Septic systems across British Columbia</text>
+  <text x="150" y="548" font-family="Figtree" font-size="30" font-weight="700" fill="#FFFFFF">778-392-6313  ·  www.clearflowseptic.ca</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="660" height="188" viewBox="0 0 660 188" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke-linecap="round" fill="none">
+    <path d="M24 60 Q68 36 112 60 T200 60" stroke="#FFFFFF" stroke-width="10"/>
+    <path d="M24 94 Q68 70 112 94 T200 94" stroke="#0C8FB0" stroke-width="10"/>
+    <path d="M24 128 Q68 104 112 128 T200 128" stroke="#9BDCEF" stroke-width="10"/>
+  </g>
+  <text x="236" y="100" font-family="Figtree, Arial, sans-serif" font-size="68" font-weight="800" fill="#FFFFFF" letter-spacing="-2">Clear<tspan fill="#9BDCEF">flow</tspan></text>
+  <text x="240" y="148" font-family="Figtree, Arial, sans-serif" font-size="27" font-weight="700" fill="#9BDCEF" letter-spacing="13">SEPTIC SYSTEMS</text>
+</svg>
