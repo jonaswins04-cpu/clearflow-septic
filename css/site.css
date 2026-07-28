@@ -199,3 +199,13 @@
   .gal-portrait .ph{width:100%;height:100%}
   @media(max-width:820px){.gal-portrait-row{grid-template-columns:1fr 1fr}}
   @media(max-width:560px){.gal-portrait-row{grid-template-columns:1fr;max-width:420px;margin-left:auto;margin-right:auto}}
+
+  /* ---------- nav dropdown ---------- */
+  .nav-dropdown{position:relative}
+  .nav-dropdown>a{display:inline-flex;align-items:center;gap:5px}
+  .nav-dropdown>a::after{content:"";width:6px;height:6px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin-top:-3px}
+  .nav-dropdown-menu{position:absolute;top:calc(100% + 14px);left:50%;transform:translateX(-50%) translateY(4px);background:#fff;border-radius:var(--radius);box-shadow:var(--shadow-lg);border:1px solid var(--line);min-width:250px;padding:8px;opacity:0;visibility:hidden;transition:opacity .15s ease,transform .15s ease;z-index:80}
+  .nav-dropdown:hover .nav-dropdown-menu,.nav-dropdown:focus-within .nav-dropdown-menu{opacity:1;visibility:visible;transform:translateX(-50%) translateY(0)}
+  .nav-dropdown-menu a{display:block;padding:9px 12px;border-radius:6px;font-size:14.5px;font-weight:700;color:var(--ink);white-space:nowrap;transition:background .12s}
+  .nav-dropdown-menu a:hover,.nav-dropdown-menu a:focus-visible{background:var(--bg-soft);color:var(--green)}
+  .nav-dropdown-menu .dd-desc{display:block;font-size:12px;font-weight:400;color:var(--ink-soft);margin-top:1px;white-space:normal}
