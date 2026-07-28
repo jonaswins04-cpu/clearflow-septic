@@ -146,8 +146,9 @@
   footer a{color:#fff;text-decoration:none;font-weight:600}
   footer a:hover{text-decoration:underline}
 
+  .mob-fade{display:none;position:fixed;bottom:0;left:0;right:0;height:96px;z-index:59;pointer-events:none;background:linear-gradient(transparent,rgba(8,51,76,.5) 65%,rgba(8,51,76,.82))}
   .mob-call{display:none;position:fixed;bottom:16px;left:16px;right:16px;z-index:60;text-align:center;background:var(--accent);color:#fff;font-weight:700;font-size:17px;text-decoration:none;padding:16px;border-radius:8px;box-shadow:0 8px 28px rgba(10,115,145,.45)}
-  @media(max-width:720px){.mob-call{display:block}body{padding-bottom:76px}}
+  @media(max-width:720px){.mob-call{display:block}.mob-fade{display:block}body{padding-bottom:76px}}
 
   a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
