@@ -192,6 +192,8 @@ def run_variant(name, targets_fn, use_sma_filter, start_year=1996, end_year=2025
         "total_tax_paid": pf.total_tax_paid,
         "total_costs_paid": pf.total_costs_paid,
         "events": pf.events,
+        "final_cash": pf.cash,
+        "final_positions": {t: {"shares": p.shares, "cost_basis": p.cost_basis} for t, p in pf.positions.items()},
     }
 
 
