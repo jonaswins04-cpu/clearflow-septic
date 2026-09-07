@@ -1,0 +1,1971 @@
+{
+ "1995": {
+  "n_candidates": 469,
+  "n_priced": 180,
+  "reasons": {
+   "yahoo_first_trade_after_start": 65,
+   "no_price_data": 196,
+   "ok": 180,
+   "illiquid_or_ticker_collision": 23,
+   "yahoo_dead_archive_untrustworthy": 5
+  },
+  "top1": [
+   "AN",
+   9.536457966227792
+  ],
+  "top5": [
+   [
+    "AN",
+    9.536457966227792
+   ],
+   [
+    "BSX",
+    1.9402985074626864
+   ],
+   [
+    "CSCO",
+    1.186813571552631
+   ],
+   [
+    "MDT",
+    1.0930642872877856
+   ],
+   [
+    "AMGN",
+    1.0386254509310042
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Health Care",
+    "BSX",
+    1.9402985074626864
+   ],
+   [
+    "Information Technology",
+    "CSCO",
+    1.186813571552631
+   ],
+   [
+    "Financials",
+    "C",
+    0.9407674394212613
+   ],
+   [
+    "Consumer Discretionary",
+    "NKE",
+    0.9374547568214082
+   ],
+   [
+    "Industrials",
+    "LMT",
+    0.8224823159382182
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": true
+ },
+ "1996": {
+  "n_candidates": 451,
+  "n_priced": 184,
+  "reasons": {
+   "yahoo_first_trade_after_start": 56,
+   "no_price_data": 184,
+   "ok": 184,
+   "illiquid_or_ticker_collision": 22,
+   "yahoo_dead_archive_untrustworthy": 5
+  },
+  "top1": [
+   "SNT",
+   1.5531920065199296
+  ],
+  "top5": [
+   [
+    "SNT",
+    1.5531920065199296
+   ],
+   [
+    "TJX",
+    1.535538192738659
+   ],
+   [
+    "INTC",
+    1.2390180191415525
+   ],
+   [
+    "MSFT",
+    0.84122526961022
+   ],
+   [
+    "AN",
+    0.8345588436346463
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Consumer Discretionary",
+    "TJX",
+    1.535538192738659
+   ],
+   [
+    "Information Technology",
+    "INTC",
+    1.2390180191415525
+   ],
+   [
+    "Consumer Staples",
+    "COST",
+    0.6341460776213381
+   ],
+   [
+    "Industrials",
+    "PCAR",
+    0.5926197307923546
+   ],
+   [
+    "Financials",
+    "USB",
+    0.5829848545606788
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "1997": {
+  "n_candidates": 443,
+  "n_priced": 190,
+  "reasons": {
+   "no_price_data": 175,
+   "ok": 190,
+   "illiquid_or_ticker_collision": 23,
+   "yahoo_first_trade_after_start": 50,
+   "yahoo_dead_archive_untrustworthy": 5
+  },
+  "top1": [
+   "WEN",
+   1.294738148250142
+  ],
+  "top5": [
+   [
+    "WEN",
+    1.294738148250142
+   ],
+   [
+    "NC",
+    1.026936503722525
+   ],
+   [
+    "FITB",
+    1.0052031126359533
+   ],
+   [
+    "LLY",
+    0.9484713543219776
+   ],
+   [
+    "USB",
+    0.948084839329109
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Financials",
+    "FITB",
+    1.0052031126359533
+   ],
+   [
+    "Health Care",
+    "LLY",
+    0.9484713543219776
+   ],
+   [
+    "Communication Services",
+    "CMCSA",
+    0.8555731698369007
+   ],
+   [
+    "Industrials",
+    "PH",
+    0.8326392285057984
+   ],
+   [
+    "Consumer Staples",
+    "COST",
+    0.8307686515980193
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "1998": {
+  "n_candidates": 435,
+  "n_priced": 208,
+  "reasons": {
+   "no_price_data": 167,
+   "ok": 208,
+   "illiquid_or_ticker_collision": 17,
+   "yahoo_first_trade_after_start": 39,
+   "yahoo_dead_archive_untrustworthy": 4
+  },
+  "top1": [
+   "AAPL",
+   1.5192334294796326
+  ],
+  "top5": [
+   [
+    "AAPL",
+    1.5192334294796326
+   ],
+   [
+    "UIS",
+    1.5159817351598175
+   ],
+   [
+    "CSCO",
+    1.3977396581343982
+   ],
+   [
+    "LOW",
+    1.180373214350377
+   ],
+   [
+    "MSFT",
+    1.11534799529508
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "AAPL",
+    1.5192334294796326
+   ],
+   [
+    "Consumer Discretionary",
+    "LOW",
+    1.180373214350377
+   ],
+   [
+    "Financials",
+    "SCHW",
+    1.1025016063518462
+   ],
+   [
+    "Consumer Staples",
+    "WMT",
+    1.078941366473305
+   ],
+   [
+    "Health Care",
+    "AMGN",
+    0.938586380671528
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "1999": {
+  "n_candidates": 430,
+  "n_priced": 217,
+  "reasons": {
+   "no_price_data": 157,
+   "ok": 217,
+   "illiquid_or_ticker_collision": 14,
+   "yahoo_first_trade_after_start": 38,
+   "yahoo_dead_archive_untrustworthy": 4
+  },
+  "top1": [
+   "ORCL",
+   2.9091575592523475
+  ],
+  "top5": [
+   [
+    "ORCL",
+    2.9091575592523475
+   ],
+   [
+    "GLW",
+    1.8656461732279515
+   ],
+   [
+    "AMAT",
+    1.8589563837663725
+   ],
+   [
+    "ADBE",
+    1.6995660282948717
+   ],
+   [
+    "AAPL",
+    1.492421815902249
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "ORCL",
+    2.9091575592523475
+   ],
+   [
+    "Health Care",
+    "AMGN",
+    1.2374849611296903
+   ],
+   [
+    "Financials",
+    "MS",
+    0.9817826796030626
+   ],
+   [
+    "Materials",
+    "FCX",
+    0.9314285117744081
+   ],
+   [
+    "Consumer Discretionary",
+    "HD",
+    0.7579569425274437
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2000": {
+  "n_candidates": 413,
+  "n_priced": 224,
+  "reasons": {
+   "no_price_data": 140,
+   "ok": 224,
+   "illiquid_or_ticker_collision": 12,
+   "yahoo_first_trade_after_start": 33,
+   "yahoo_dead_archive_untrustworthy": 4
+  },
+  "top1": [
+   "EHC",
+   2.107141505174972
+  ],
+  "top5": [
+   [
+    "EHC",
+    2.107141505174972
+   ],
+   [
+    "CB",
+    1.6465906869513067
+   ],
+   [
+    "UNH",
+    1.2849521015007381
+   ],
+   [
+    "PPL",
+    1.1179363860834908
+   ],
+   [
+    "LUV",
+    1.1144331519872717
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Financials",
+    "CB",
+    1.6465906869513067
+   ],
+   [
+    "Health Care",
+    "UNH",
+    1.2849521015007381
+   ],
+   [
+    "Utilities",
+    "PPL",
+    1.1179363860834908
+   ],
+   [
+    "Industrials",
+    "LUV",
+    1.1144331519872717
+   ],
+   [
+    "Energy",
+    "APA",
+    1.0615572182714876
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2001": {
+  "n_candidates": 436,
+  "n_priced": 237,
+  "reasons": {
+   "ok": 237,
+   "no_price_data": 149,
+   "illiquid_or_ticker_collision": 13,
+   "yahoo_first_trade_after_start": 33,
+   "yahoo_dead_archive_untrustworthy": 4
+  },
+  "top1": [
+   "BBY",
+   1.6599991289553104
+  ],
+  "top5": [
+   [
+    "BBY",
+    1.6599991289553104
+   ],
+   [
+    "AZO",
+    1.5757848628433297
+   ],
+   [
+    "HRB",
+    1.262697637069901
+   ],
+   [
+    "DLX",
+    1.2387169618967948
+   ],
+   [
+    "LOW",
+    1.079373883641587
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Consumer Discretionary",
+    "BBY",
+    1.6599991289553104
+   ],
+   [
+    "Health Care",
+    "BSX",
+    0.7866667288321036
+   ],
+   [
+    "Materials",
+    "FCX",
+    0.6108269154144621
+   ],
+   [
+    "Industrials",
+    "SWK",
+    0.5515793177122392
+   ],
+   [
+    "Information Technology",
+    "MSFT",
+    0.5273769771408048
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2002": {
+  "n_candidates": 441,
+  "n_priced": 244,
+  "reasons": {
+   "ok": 244,
+   "no_price_data": 145,
+   "illiquid_or_ticker_collision": 13,
+   "yahoo_first_trade_after_start": 35,
+   "yahoo_dead_archive_untrustworthy": 4
+  },
+  "top1": [
+   "BSX",
+   0.8690110091324692
+  ],
+  "top5": [
+   [
+    "BSX",
+    0.8690110091324692
+   ],
+   [
+    "HAL",
+    0.5703028966634418
+   ],
+   [
+    "NEM",
+    0.5276100350990443
+   ],
+   [
+    "ZBH",
+    0.37347057806900885
+   ],
+   [
+    "AFL",
+    0.2766304962088322
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Health Care",
+    "BSX",
+    0.8690110091324692
+   ],
+   [
+    "Energy",
+    "HAL",
+    0.5703028966634418
+   ],
+   [
+    "Materials",
+    "NEM",
+    0.5276100350990443
+   ],
+   [
+    "Financials",
+    "AFL",
+    0.2766304962088322
+   ],
+   [
+    "Industrials",
+    "LMT",
+    0.2584588664564951
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2003": {
+  "n_candidates": 449,
+  "n_priced": 252,
+  "reasons": {
+   "ok": 252,
+   "illiquid_or_ticker_collision": 13,
+   "no_price_data": 144,
+   "yahoo_first_trade_after_start": 36,
+   "yahoo_dead_archive_untrustworthy": 4
+  },
+  "top1": [
+   "WMB",
+   2.5037052103604647
+  ],
+  "top5": [
+   [
+    "WMB",
+    2.5037052103604647
+   ],
+   [
+    "AES",
+    1.9135804160699257
+   ],
+   [
+    "SANM",
+    1.793791573029075
+   ],
+   [
+    "GLW",
+    1.7813335896360503
+   ],
+   [
+    "FCX",
+    1.4409778100288722
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Energy",
+    "WMB",
+    2.5037052103604647
+   ],
+   [
+    "Utilities",
+    "AES",
+    1.9135804160699257
+   ],
+   [
+    "Information Technology",
+    "GLW",
+    1.7813335896360503
+   ],
+   [
+    "Materials",
+    "FCX",
+    1.4409778100288722
+   ],
+   [
+    "Health Care",
+    "HUM",
+    1.2162937101627835
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2004": {
+  "n_candidates": 440,
+  "n_priced": 255,
+  "reasons": {
+   "ok": 255,
+   "illiquid_or_ticker_collision": 14,
+   "no_price_data": 136,
+   "yahoo_first_trade_after_start": 30,
+   "yahoo_dead_archive_untrustworthy": 5
+  },
+  "top1": [
+   "ADSK",
+   2.1062673142822956
+  ],
+  "top5": [
+   [
+    "ADSK",
+    2.1062673142822956
+   ],
+   [
+    "AAPL",
+    2.026315961982748
+   ],
+   [
+    "SBUX",
+    0.8948643632506865
+   ],
+   [
+    "NUE",
+    0.8892900762925133
+   ],
+   [
+    "GT",
+    0.865140118784226
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "ADSK",
+    2.1062673142822956
+   ],
+   [
+    "Consumer Discretionary",
+    "SBUX",
+    0.8948643632506865
+   ],
+   [
+    "Materials",
+    "NUE",
+    0.8892900762925133
+   ],
+   [
+    "Health Care",
+    "BIIB",
+    0.8031944528062345
+   ],
+   [
+    "Industrials",
+    "CMI",
+    0.7523765738054728
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2005": {
+  "n_candidates": 443,
+  "n_priced": 260,
+  "reasons": {
+   "ok": 260,
+   "illiquid_or_ticker_collision": 12,
+   "no_price_data": 140,
+   "yahoo_first_trade_after_start": 26,
+   "yahoo_dead_archive_untrustworthy": 5
+  },
+  "top1": [
+   "VLO",
+   1.4086762913832214
+  ],
+  "top5": [
+   [
+    "VLO",
+    1.4086762913832214
+   ],
+   [
+    "AAPL",
+    1.2717649554090968
+   ],
+   [
+    "EOG",
+    1.2115380834647942
+   ],
+   [
+    "HUM",
+    0.8631685842119803
+   ],
+   [
+    "ATI",
+    0.7836410809810599
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Energy",
+    "VLO",
+    1.4086762913832214
+   ],
+   [
+    "Information Technology",
+    "AAPL",
+    1.2717649554090968
+   ],
+   [
+    "Health Care",
+    "HUM",
+    0.8631685842119803
+   ],
+   [
+    "Financials",
+    "AON",
+    0.5618006312615516
+   ],
+   [
+    "Materials",
+    "FCX",
+    0.5322950734879537
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2006": {
+  "n_candidates": 427,
+  "n_priced": 270,
+  "reasons": {
+   "ok": 270,
+   "illiquid_or_ticker_collision": 10,
+   "no_price_data": 123,
+   "yahoo_first_trade_after_start": 20,
+   "yahoo_dead_archive_untrustworthy": 4
+  },
+  "top1": [
+   "ATI",
+   1.5315847206111735
+  ],
+  "top5": [
+   [
+    "ATI",
+    1.5315847206111735
+   ],
+   [
+    "NVDA",
+    0.9366814110099453
+   ],
+   [
+    "NUE",
+    0.6396307960253356
+   ],
+   [
+    "CMCSA",
+    0.6138007968884225
+   ],
+   [
+    "CSCO",
+    0.5661890996337655
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "NVDA",
+    0.9366814110099453
+   ],
+   [
+    "Materials",
+    "NUE",
+    0.6396307960253356
+   ],
+   [
+    "Communication Services",
+    "CMCSA",
+    0.6138007968884225
+   ],
+   [
+    "Financials",
+    "GS",
+    0.5597642333215465
+   ],
+   [
+    "Health Care",
+    "TMO",
+    0.4957067420504948
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2007": {
+  "n_candidates": 413,
+  "n_priced": 280,
+  "reasons": {
+   "ok": 280,
+   "illiquid_or_ticker_collision": 7,
+   "no_price_data": 105,
+   "yahoo_dead_archive_untrustworthy": 4,
+   "yahoo_first_trade_after_start": 17
+  },
+  "top1": [
+   "NOV",
+   1.522664242972335
+  ],
+  "top5": [
+   [
+    "NOV",
+    1.522664242972335
+   ],
+   [
+    "AMZN",
+    1.3937985046287706
+   ],
+   [
+    "CNX",
+    1.382960400344639
+   ],
+   [
+    "AAPL",
+    1.3637226833250926
+   ],
+   [
+    "CMI",
+    1.1799472795570436
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Consumer Discretionary",
+    "AMZN",
+    1.3937985046287706
+   ],
+   [
+    "Information Technology",
+    "AAPL",
+    1.3637226833250926
+   ],
+   [
+    "Industrials",
+    "CMI",
+    1.1799472795570436
+   ],
+   [
+    "Materials",
+    "FCX",
+    1.062679207027466
+   ],
+   [
+    "Energy",
+    "APA",
+    0.6786492168189828
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2008": {
+  "n_candidates": 414,
+  "n_priced": 287,
+  "reasons": {
+   "ok": 287,
+   "no_price_data": 100,
+   "yahoo_dead_archive_untrustworthy": 5,
+   "yahoo_first_trade_after_start": 17,
+   "illiquid_or_ticker_collision": 5
+  },
+  "top1": [
+   "HRB",
+   0.25545998506025747
+  ],
+  "top5": [
+   [
+    "HRB",
+    0.25545998506025747
+   ],
+   [
+    "AMGN",
+    0.23927052773739454
+   ],
+   [
+    "BBT",
+    0.22367211636307327
+   ],
+   [
+    "WMT",
+    0.21616791529570278
+   ],
+   [
+    "AZO",
+    0.20015491196521618
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Health Care",
+    "AMGN",
+    0.23927052773739454
+   ],
+   [
+    "Consumer Staples",
+    "WMT",
+    0.21616791529570278
+   ],
+   [
+    "Consumer Discretionary",
+    "AZO",
+    0.20015491196521618
+   ],
+   [
+    "Real Estate",
+    "PSA",
+    0.11163689338444205
+   ],
+   [
+    "Materials",
+    "SHW",
+    0.0835262893846811
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2009": {
+  "n_candidates": 420,
+  "n_priced": 302,
+  "reasons": {
+   "ok": 302,
+   "no_price_data": 97,
+   "yahoo_dead_archive_untrustworthy": 6,
+   "yahoo_first_trade_after_start": 12,
+   "illiquid_or_ticker_collision": 3
+  },
+  "top1": [
+   "THC",
+   3.2440944467994273
+  ],
+  "top5": [
+   [
+    "THC",
+    3.2440944467994273
+   ],
+   [
+    "AMD",
+    3.067226823411181
+   ],
+   [
+    "F",
+    3.0650409579097433
+   ],
+   [
+    "GNW",
+    2.968531747477369
+   ],
+   [
+    "MU",
+    2.71830964089692
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "AMD",
+    3.067226823411181
+   ],
+   [
+    "Consumer Discretionary",
+    "F",
+    3.0650409579097433
+   ],
+   [
+    "Real Estate",
+    "CBRE",
+    2.0290177761272967
+   ],
+   [
+    "Materials",
+    "FCX",
+    2.0026162250718955
+   ],
+   [
+    "Health Care",
+    "ISRG",
+    1.2915942254828794
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2010": {
+  "n_candidates": 435,
+  "n_priced": 319,
+  "reasons": {
+   "ok": 319,
+   "yahoo_dead_archive_untrustworthy": 6,
+   "no_price_data": 95,
+   "yahoo_first_trade_after_start": 12,
+   "illiquid_or_ticker_collision": 3
+  },
+  "top1": [
+   "CMI",
+   1.371106339911857
+  ],
+  "top5": [
+   [
+    "CMI",
+    1.371106339911857
+   ],
+   [
+    "AIG",
+    0.9277352482107135
+   ],
+   [
+    "HBAN",
+    0.8794750022148001
+   ],
+   [
+    "ZION",
+    0.8210171608303405
+   ],
+   [
+    "AKAM",
+    0.8152005825066255
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Industrials",
+    "CMI",
+    1.371106339911857
+   ],
+   [
+    "Financials",
+    "AIG",
+    0.9277352482107135
+   ],
+   [
+    "Information Technology",
+    "AKAM",
+    0.8152005825066255
+   ],
+   [
+    "Consumer Discretionary",
+    "BKNG",
+    0.7840237873273774
+   ],
+   [
+    "Consumer Staples",
+    "EL",
+    0.6792177026509831
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2011": {
+  "n_candidates": 437,
+  "n_priced": 324,
+  "reasons": {
+   "ok": 324,
+   "yahoo_dead_archive_untrustworthy": 6,
+   "no_price_data": 90,
+   "yahoo_first_trade_after_start": 13,
+   "illiquid_or_ticker_collision": 4
+  },
+  "top1": [
+   "ISRG",
+   0.7212267776939254
+  ],
+  "top5": [
+   [
+    "ISRG",
+    0.7212267776939254
+   ],
+   [
+    "MA",
+    0.6918067762038551
+   ],
+   [
+    "BIIB",
+    0.6376489293075256
+   ],
+   [
+    "HUM",
+    0.6044484909999686
+   ],
+   [
+    "OKE",
+    0.5853987372545815
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Health Care",
+    "ISRG",
+    0.7212267776939254
+   ],
+   [
+    "Financials",
+    "MA",
+    0.6918067762038551
+   ],
+   [
+    "Energy",
+    "OKE",
+    0.5853987372545815
+   ],
+   [
+    "Consumer Discretionary",
+    "ROST",
+    0.5050626313848687
+   ],
+   [
+    "Industrials",
+    "FAST",
+    0.46189848007416856
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2012": {
+  "n_candidates": 443,
+  "n_priced": 336,
+  "reasons": {
+   "ok": 336,
+   "yahoo_dead_archive_untrustworthy": 5,
+   "no_price_data": 88,
+   "yahoo_first_trade_after_start": 12,
+   "illiquid_or_ticker_collision": 2
+  },
+  "top1": [
+   "PHM",
+   1.7852770388821444
+  ],
+  "top5": [
+   [
+    "PHM",
+    1.7852770388821444
+   ],
+   [
+    "WHR",
+    1.1544255408709159
+   ],
+   [
+    "EXPE",
+    1.1093374443493542
+   ],
+   [
+    "BAC",
+    1.0114317054187265
+   ],
+   [
+    "LEN",
+    0.955286146838767
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Consumer Discretionary",
+    "PHM",
+    1.7852770388821444
+   ],
+   [
+    "Financials",
+    "BAC",
+    1.0114317054187265
+   ],
+   [
+    "Energy",
+    "MPC",
+    0.9354433732528906
+   ],
+   [
+    "Health Care",
+    "GILD",
+    0.7546583195274381
+   ],
+   [
+    "Materials",
+    "SHW",
+    0.7116564457285437
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2013": {
+  "n_candidates": 444,
+  "n_priced": 341,
+  "reasons": {
+   "ok": 341,
+   "yahoo_dead_archive_untrustworthy": 5,
+   "no_price_data": 84,
+   "yahoo_first_trade_after_start": 12,
+   "illiquid_or_ticker_collision": 2
+  },
+  "top1": [
+   "NFLX",
+   3.0014111804306642
+  ],
+  "top5": [
+   [
+    "NFLX",
+    3.0014111804306642
+   ],
+   [
+    "BBY",
+    2.4536793099949477
+   ],
+   [
+    "MU",
+    2.2805437092900633
+   ],
+   [
+    "PBI",
+    1.2899260185758474
+   ],
+   [
+    "BSX",
+    1.040747152840885
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Communication Services",
+    "NFLX",
+    3.0014111804306642
+   ],
+   [
+    "Consumer Discretionary",
+    "BBY",
+    2.4536793099949477
+   ],
+   [
+    "Information Technology",
+    "MU",
+    2.2805437092900633
+   ],
+   [
+    "Health Care",
+    "BSX",
+    1.040747152840885
+   ],
+   [
+    "Financials",
+    "AIZ",
+    0.9056742196340584
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2014": {
+  "n_candidates": 449,
+  "n_priced": 348,
+  "reasons": {
+   "ok": 348,
+   "no_price_data": 82,
+   "yahoo_dead_archive_untrustworthy": 5,
+   "yahoo_first_trade_after_start": 12,
+   "illiquid_or_ticker_collision": 2
+  },
+  "top1": [
+   "LUV",
+   1.2582650634550419
+  ],
+  "top5": [
+   [
+    "LUV",
+    1.2582650634550419
+   ],
+   [
+    "EW",
+    0.9323421891078878
+   ],
+   [
+    "DAL",
+    0.7903473604073568
+   ],
+   [
+    "KR",
+    0.6585116785110365
+   ],
+   [
+    "MNST",
+    0.6224918387157665
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Industrials",
+    "LUV",
+    1.2582650634550419
+   ],
+   [
+    "Health Care",
+    "EW",
+    0.9323421891078878
+   ],
+   [
+    "Consumer Staples",
+    "KR",
+    0.6585116785110365
+   ],
+   [
+    "Information Technology",
+    "MU",
+    0.6163437944859058
+   ],
+   [
+    "Consumer Discretionary",
+    "MAR",
+    0.6131810887699649
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2015": {
+  "n_candidates": 444,
+  "n_priced": 355,
+  "reasons": {
+   "ok": 355,
+   "no_price_data": 70,
+   "yahoo_dead_archive_untrustworthy": 5,
+   "yahoo_first_trade_after_start": 12,
+   "illiquid_or_ticker_collision": 2
+  },
+  "top1": [
+   "NFLX",
+   1.2945491789126136
+  ],
+  "top5": [
+   [
+    "NFLX",
+    1.2945491789126136
+   ],
+   [
+    "AMZN",
+    1.190749334186814
+   ],
+   [
+    "NVDA",
+    0.6645142765396188
+   ],
+   [
+    "HRL",
+    0.559015513159816
+   ],
+   [
+    "VRSN",
+    0.5275399828384242
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Communication Services",
+    "NFLX",
+    1.2945491789126136
+   ],
+   [
+    "Consumer Discretionary",
+    "AMZN",
+    1.190749334186814
+   ],
+   [
+    "Information Technology",
+    "NVDA",
+    0.6645142765396188
+   ],
+   [
+    "Consumer Staples",
+    "HRL",
+    0.559015513159816
+   ],
+   [
+    "Energy",
+    "VLO",
+    0.44375263418698885
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2016": {
+  "n_candidates": 455,
+  "n_priced": 371,
+  "reasons": {
+   "ok": 371,
+   "no_price_data": 67,
+   "yahoo_dead_archive_untrustworthy": 5,
+   "yahoo_first_trade_after_start": 9,
+   "illiquid_or_ticker_collision": 3
+  },
+  "top1": [
+   "NVDA",
+   2.329197473861657
+  ],
+  "top5": [
+   [
+    "NVDA",
+    2.329197473861657
+   ],
+   [
+    "OKE",
+    1.4283041058904686
+   ],
+   [
+    "FCX",
+    1.0137400301646298
+   ],
+   [
+    "NEM",
+    0.8545791121593491
+   ],
+   [
+    "AMAT",
+    0.7760497955068555
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "NVDA",
+    2.329197473861657
+   ],
+   [
+    "Energy",
+    "OKE",
+    1.4283041058904686
+   ],
+   [
+    "Materials",
+    "FCX",
+    1.0137400301646298
+   ],
+   [
+    "Health Care",
+    "DHR",
+    0.7533825479580256
+   ],
+   [
+    "Industrials",
+    "PWR",
+    0.7159037035859364
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2017": {
+  "n_candidates": 464,
+  "n_priced": 387,
+  "reasons": {
+   "ok": 387,
+   "no_price_data": 61,
+   "yahoo_dead_archive_untrustworthy": 6,
+   "yahoo_first_trade_after_start": 7,
+   "illiquid_or_ticker_collision": 3
+  },
+  "top1": [
+   "NRG",
+   1.3293423152166222
+  ],
+  "top5": [
+   [
+    "NRG",
+    1.3293423152166222
+   ],
+   [
+    "VRTX",
+    1.0010682578676287
+   ],
+   [
+    "WYNN",
+    0.9593906093613676
+   ],
+   [
+    "BA",
+    0.9311485636728791
+   ],
+   [
+    "NVDA",
+    0.9042635666648897
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Utilities",
+    "NRG",
+    1.3293423152166222
+   ],
+   [
+    "Health Care",
+    "VRTX",
+    1.0010682578676287
+   ],
+   [
+    "Consumer Discretionary",
+    "WYNN",
+    0.9593906093613676
+   ],
+   [
+    "Industrials",
+    "BA",
+    0.9311485636728791
+   ],
+   [
+    "Information Technology",
+    "NVDA",
+    0.9042635666648897
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2018": {
+  "n_candidates": 473,
+  "n_priced": 403,
+  "reasons": {
+   "ok": 403,
+   "no_price_data": 60,
+   "yahoo_first_trade_after_start": 8,
+   "illiquid_or_ticker_collision": 1,
+   "yahoo_dead_archive_untrustworthy": 1
+  },
+  "top1": [
+   "AMD",
+   0.6812386023754655
+  ],
+  "top5": [
+   [
+    "AMD",
+    0.6812386023754655
+   ],
+   [
+    "TRIP",
+    0.5513373198750999
+   ],
+   [
+    "AAP",
+    0.4867228652265816
+   ],
+   [
+    "CMG",
+    0.47393754190331516
+   ],
+   [
+    "HCA",
+    0.4069613702051831
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "AMD",
+    0.6812386023754655
+   ],
+   [
+    "Consumer Discretionary",
+    "CMG",
+    0.47393754190331516
+   ],
+   [
+    "Health Care",
+    "HCA",
+    0.4069613702051831
+   ],
+   [
+    "Consumer Staples",
+    "MKC",
+    0.39945669314067067
+   ],
+   [
+    "Utilities",
+    "AES",
+    0.38381689653116946
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2019": {
+  "n_candidates": 472,
+  "n_priced": 409,
+  "reasons": {
+   "ok": 409,
+   "no_price_data": 57,
+   "yahoo_first_trade_after_start": 6
+  },
+  "top1": [
+   "AMD",
+   1.4354753476454372
+  ],
+  "top5": [
+   [
+    "AMD",
+    1.4354753476454372
+   ],
+   [
+    "LRCX",
+    1.1595545432073195
+   ],
+   [
+    "KLAC",
+    1.0080144776164555
+   ],
+   [
+    "TGT",
+    0.9911827889776228
+   ],
+   [
+    "CPRT",
+    0.9072986967144481
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "AMD",
+    1.4354753476454372
+   ],
+   [
+    "Consumer Staples",
+    "TGT",
+    0.9911827889776228
+   ],
+   [
+    "Industrials",
+    "CPRT",
+    0.9072986967144481
+   ],
+   [
+    "Consumer Discretionary",
+    "CMG",
+    0.8881045927089386
+   ],
+   [
+    "Financials",
+    "GPN",
+    0.7916295831102915
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2020": {
+  "n_candidates": 482,
+  "n_priced": 426,
+  "reasons": {
+   "ok": 426,
+   "no_price_data": 50,
+   "yahoo_first_trade_after_start": 6
+  },
+  "top1": [
+   "NVDA",
+   1.1802414359572344
+  ],
+  "top5": [
+   [
+    "NVDA",
+    1.1802414359572344
+   ],
+   [
+    "PYPL",
+    1.1146727188100747
+   ],
+   [
+    "ALB",
+    1.0660138475673784
+   ],
+   [
+    "FCX",
+    0.9785242128750624
+   ],
+   [
+    "CDNS",
+    0.9097142779030358
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "NVDA",
+    1.1802414359572344
+   ],
+   [
+    "Financials",
+    "PYPL",
+    1.1146727188100747
+   ],
+   [
+    "Materials",
+    "ALB",
+    1.0660138475673784
+   ],
+   [
+    "Health Care",
+    "IDXX",
+    0.8861595948953125
+   ],
+   [
+    "Industrials",
+    "ROL",
+    0.775107346921978
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2021": {
+  "n_candidates": 481,
+  "n_priced": 436,
+  "reasons": {
+   "ok": 436,
+   "no_price_data": 41,
+   "yahoo_first_trade_after_start": 4
+  },
+  "top1": [
+   "DVN",
+   1.900214939138841
+  ],
+  "top5": [
+   [
+    "DVN",
+    1.900214939138841
+   ],
+   [
+    "FTNT",
+    1.4690848605051459
+   ],
+   [
+    "F",
+    1.4500678849580821
+   ],
+   [
+    "FANG",
+    1.2499948100172542
+   ],
+   [
+    "NVDA",
+    1.2447624852905053
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Energy",
+    "DVN",
+    1.900214939138841
+   ],
+   [
+    "Information Technology",
+    "FTNT",
+    1.4690848605051459
+   ],
+   [
+    "Consumer Discretionary",
+    "F",
+    1.4500678849580821
+   ],
+   [
+    "Materials",
+    "NUE",
+    1.212753587423879
+   ],
+   [
+    "Real Estate",
+    "EXR",
+    1.1113251923090428
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2022": {
+  "n_candidates": 478,
+  "n_priced": 448,
+  "reasons": {
+   "ok": 448,
+   "no_price_data": 26,
+   "yahoo_first_trade_after_start": 3,
+   "illiquid_or_ticker_collision": 1
+  },
+  "top1": [
+   "OXY",
+   1.0449656831366374
+  ],
+  "top5": [
+   [
+    "OXY",
+    1.0449656831366374
+   ],
+   [
+    "MPC",
+    0.8187625608812477
+   ],
+   [
+    "XOM",
+    0.8047784359788122
+   ],
+   [
+    "SLB",
+    0.710440324885061
+   ],
+   [
+    "VLO",
+    0.7034985007597951
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Energy",
+    "OXY",
+    1.0449656831366374
+   ],
+   [
+    "Health Care",
+    "CAH",
+    0.5254101035046632
+   ],
+   [
+    "Industrials",
+    "NOC",
+    0.4359016746558715
+   ],
+   [
+    "Consumer Staples",
+    "ADM",
+    0.3936122159132964
+   ],
+   [
+    "Financials",
+    "WRB",
+    0.3578567268491555
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2023": {
+  "n_candidates": 480,
+  "n_priced": 458,
+  "reasons": {
+   "ok": 458,
+   "no_price_data": 19,
+   "yahoo_first_trade_after_start": 3
+  },
+  "top1": [
+   "NVDA",
+   2.460983033616617
+  ],
+  "top5": [
+   [
+    "NVDA",
+    2.460983033616617
+   ],
+   [
+    "META",
+    1.837581866721357
+   ],
+   [
+    "RCL",
+    1.6583868358291771
+   ],
+   [
+    "CCL",
+    1.3262236081360945
+   ],
+   [
+    "AMD",
+    1.3025618774079457
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "NVDA",
+    2.460983033616617
+   ],
+   [
+    "Communication Services",
+    "META",
+    1.837581866721357
+   ],
+   [
+    "Consumer Discretionary",
+    "RCL",
+    1.6583868358291771
+   ],
+   [
+    "Industrials",
+    "GE",
+    0.9297174840515428
+   ],
+   [
+    "Utilities",
+    "NRG",
+    0.6878588060622193
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ },
+ "2024": {
+  "n_candidates": 484,
+  "n_priced": 469,
+  "reasons": {
+   "ok": 469,
+   "no_price_data": 12,
+   "yahoo_first_trade_after_start": 3
+  },
+  "top1": [
+   "NVDA",
+   1.7887412375867218
+  ],
+  "top5": [
+   [
+    "NVDA",
+    1.7887412375867218
+   ],
+   [
+    "UAL",
+    1.3845774941861468
+   ],
+   [
+    "AXON",
+    1.3618805221619006
+   ],
+   [
+    "AVGO",
+    1.1647969225825445
+   ],
+   [
+    "TRGP",
+    1.1121886077925294
+   ]
+  ],
+  "top_sectors": [
+   [
+    "Information Technology",
+    "NVDA",
+    1.7887412375867218
+   ],
+   [
+    "Industrials",
+    "UAL",
+    1.3845774941861468
+   ],
+   [
+    "Energy",
+    "TRGP",
+    1.1121886077925294
+   ],
+   [
+    "Utilities",
+    "CEG",
+    0.9545620879158982
+   ],
+   [
+    "Consumer Discretionary",
+    "RCL",
+    0.9291263815367894
+   ]
+  ],
+  "sector_coverage_n_priced_with_sector": 11,
+  "approximated": false
+ }
+}

@@ -1,0 +1,6596 @@
+{
+ "DEC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3451411.157236727,
+  "n_points": 1425
+ },
+ "JBHT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 61168029.8438938,
+  "n_points": 8477
+ },
+ "CTAS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80658675.75370854,
+  "n_points": 8477
+ },
+ "TEN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4086761.45770314,
+  "n_points": 6167
+ },
+ "COF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 245541969.10338458,
+  "n_points": 8003
+ },
+ "LM": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KIM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 53980159.2811919,
+  "n_points": 8477
+ },
+ "OKE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80138805.03035964,
+  "n_points": 8477
+ },
+ "EA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1837737529.3729198,
+  "n_points": 6
+ },
+ "CPNLQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SPLS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 830430.0179004669,
+  "n_points": 160
+ },
+ "RDS-A": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 186628907.72774097,
+  "n_points": 8477
+ },
+ "WYNN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 231694779.47643688,
+  "n_points": 6003
+ },
+ "FCX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 409838539.22582215,
+  "n_points": 7842
+ },
+ "PRGO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 53670065.097389005,
+  "n_points": 8477
+ },
+ "FDO": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BAY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 33081.47096072926,
+  "n_points": 85
+ },
+ "MIR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 29433978.08455432,
+  "n_points": 1518
+ },
+ "GOOG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2504024361.5723186,
+  "n_points": 5547
+ },
+ "ASC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4359212.614846433,
+  "n_points": 3294
+ },
+ "REGN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 179455785.45379615,
+  "n_points": 8477
+ },
+ "HSIC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 49939254.85199648,
+  "n_points": 7759
+ },
+ "IP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 123844684.85357678,
+  "n_points": 8477
+ },
+ "DECK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 72642619.84625967,
+  "n_points": 8278
+ },
+ "ACGL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 43350773.78887821,
+  "n_points": 7795
+ },
+ "CNP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 69740190.92423135,
+  "n_points": 8477
+ },
+ "NWL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 60761981.2677935,
+  "n_points": 8477
+ },
+ "SIVB": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 31068512.69776981,
+  "n_points": 1672
+ },
+ "SBL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "USH": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SCI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 26868864.54200263,
+  "n_points": 8477
+ },
+ "STE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 37750845.04111908,
+  "n_points": 8477
+ },
+ "CSCO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1046153908.9813383,
+  "n_points": 8477
+ },
+ "PODD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 70848459.9671233,
+  "n_points": 4859
+ },
+ "CVC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ASH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 38105259.56234168,
+  "n_points": 8477
+ },
+ "MMM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 304997707.92840016,
+  "n_points": 8477
+ },
+ "RYAN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 48681286.27166526,
+  "n_points": 1287
+ },
+ "HNZ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CCU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2421645.004359838,
+  "n_points": 8477
+ },
+ "ASO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 82718844.44525947,
+  "n_points": 1488
+ },
+ "CARR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 267923867.6296908,
+  "n_points": 1625
+ },
+ "ORLY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 132492680.13444929,
+  "n_points": 8400
+ },
+ "ABMD": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "APOL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DALRQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CAH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 133953552.63791333,
+  "n_points": 8477
+ },
+ "SPGI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 189075588.91432983,
+  "n_points": 8477
+ },
+ "CBH": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PLD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 147344712.90970165,
+  "n_points": 7240
+ },
+ "COR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 122223444.31783985,
+  "n_points": 7908
+ },
+ "MET": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 242746353.6626234,
+  "n_points": 6644
+ },
+ "VTRS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 102357954.64759769,
+  "n_points": 8477
+ },
+ "AIG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 356374600.67231786,
+  "n_points": 8477
+ },
+ "DCNAQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 90704854.81680492,
+  "n_points": 6310
+ },
+ "BX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 239509938.7522868,
+  "n_points": 4832
+ },
+ "WEC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65543069.303318575,
+  "n_points": 8477
+ },
+ "FBHS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SLG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 51305248.21471333,
+  "n_points": 7309
+ },
+ "TEK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 202123.59476353822,
+  "n_points": 469
+ },
+ "KSU": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TPL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 19441547.20363308,
+  "n_points": 8477
+ },
+ "GNT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 682638.0983737957,
+  "n_points": 3925
+ },
+ "CL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 197042553.5727193,
+  "n_points": 8477
+ },
+ "IPGP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 35859427.18029482,
+  "n_points": 4962
+ },
+ "SIAL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BRCM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DFS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "G": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 30234338.651486896,
+  "n_points": 4804
+ },
+ "J": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 49011733.04170962,
+  "n_points": 8477
+ },
+ "HM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PWER": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 19927.726163781685,
+  "n_points": 694
+ },
+ "PPG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 104317288.01644516,
+  "n_points": 8477
+ },
+ "CVG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 36304.262598917725,
+  "n_points": 6913
+ },
+ "KSS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 148257746.1818223,
+  "n_points": 8477
+ },
+ "TTWO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 110097547.07468666,
+  "n_points": 7395
+ },
+ "PEG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 95581091.30265528,
+  "n_points": 8477
+ },
+ "AVP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MBI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 30112676.95090013,
+  "n_points": 8477
+ },
+ "VRSN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 140222585.29489687,
+  "n_points": 7194
+ },
+ "MRNA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1014974455.897219,
+  "n_points": 1946
+ },
+ "SMS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "VICI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 171609959.56251392,
+  "n_points": 2181
+ },
+ "POOL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 40204421.997896194,
+  "n_points": 7774
+ },
+ "UTX": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 40735.75313343721,
+  "n_points": 85
+ },
+ "ABX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1758461.1184537015,
+  "n_points": 1502
+ },
+ "CTL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RML": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 0.0,
+  "n_points": 1
+ },
+ "MWV": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MXIM": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DLR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 144188739.4171783,
+  "n_points": 5497
+ },
+ "NTAP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 172307884.849232,
+  "n_points": 7747
+ },
+ "SLR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SAF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 159587.8819036736,
+  "n_points": 756
+ },
+ "QTRN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NOVL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ENS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 18772623.599485435,
+  "n_points": 5560
+ },
+ "KATE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PEL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ETN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 179747567.90284178,
+  "n_points": 8477
+ },
+ "BBY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 185357909.40576014,
+  "n_points": 8477
+ },
+ "SWKS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 111799804.91733705,
+  "n_points": 8477
+ },
+ "AXON": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 87920503.50123592,
+  "n_points": 6341
+ },
+ "CMVT": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TRW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MYG": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LOR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GMCR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CMI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 152379664.1096679,
+  "n_points": 8477
+ },
+ "AAPL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4880285325.746052,
+  "n_points": 8477
+ },
+ "MCHP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 155759731.80083242,
+  "n_points": 8424
+ },
+ "AFS-A": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GEN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 140475236.46187466,
+  "n_points": 8477
+ },
+ "FBO": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DAL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 368313264.84803987,
+  "n_points": 4867
+ },
+ "GIDL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TIN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AOS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 30332364.9150263,
+  "n_points": 8477
+ },
+ "SOLV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 92790687.6195218,
+  "n_points": 614
+ },
+ "DDS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 32681549.50653434,
+  "n_points": 8477
+ },
+ "MPC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 344061506.37191397,
+  "n_points": 3822
+ },
+ "JCP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ALL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 150679181.3582266,
+  "n_points": 8372
+ },
+ "WCOEQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "D": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 145076625.84013256,
+  "n_points": 8477
+ },
+ "AMG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 45727611.41905454,
+  "n_points": 7240
+ },
+ "ANDV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 86154241.91472022,
+  "n_points": 6470
+ },
+ "AVGO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1586644092.9288836,
+  "n_points": 4297
+ },
+ "NYT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 31424741.748866737,
+  "n_points": 8477
+ },
+ "NAVI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 29715552.702263713,
+  "n_points": 3115
+ },
+ "CIEN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 175939414.33118787,
+  "n_points": 7440
+ },
+ "WELL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 106313982.99194033,
+  "n_points": 8477
+ },
+ "JCI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 221806913.61832914,
+  "n_points": 8477
+ },
+ "WDC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 219410230.85715973,
+  "n_points": 8477
+ },
+ "BDX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 146691357.8671836,
+  "n_points": 8477
+ },
+ "USS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PTC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 55684873.54702962,
+  "n_points": 8477
+ },
+ "ZBRA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 45353448.59366688,
+  "n_points": 8477
+ },
+ "STI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 8515284.097100828,
+  "n_points": 1091
+ },
+ "SVU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 27823694.480034962,
+  "n_points": 6489
+ },
+ "CPT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 41018870.81370168,
+  "n_points": 8338
+ },
+ "LHX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 91222780.64222807,
+  "n_points": 8477
+ },
+ "AVY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 46103265.516398266,
+  "n_points": 8477
+ },
+ "DD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 233104728.81790066,
+  "n_points": 8477
+ },
+ "BRL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MEDI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 96206.78940220039,
+  "n_points": 952
+ },
+ "IEX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 31831466.93435768,
+  "n_points": 8477
+ },
+ "CPRI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 138311097.19987231,
+  "n_points": 3701
+ },
+ "LPX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 33322830.70214233,
+  "n_points": 8477
+ },
+ "TOS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 34066.40132100959,
+  "n_points": 152
+ },
+ "UPC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2380725.595250895,
+  "n_points": 1371
+ },
+ "EDS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ESRX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 154644369.55475736,
+  "n_points": 6532
+ },
+ "RHT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CBE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MWI": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SMCI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 456025912.59216523,
+  "n_points": 4891
+ },
+ "CMA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 56779767.85295515,
+  "n_points": 8477
+ },
+ "OAT": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MMC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DVA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 61736083.232063204,
+  "n_points": 7762
+ },
+ "EFX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 71537698.54732613,
+  "n_points": 8477
+ },
+ "HIG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 123108744.69989038,
+  "n_points": 7730
+ },
+ "ADI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 234750265.8177072,
+  "n_points": 8477
+ },
+ "STJ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AIV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 27595228.01100103,
+  "n_points": 8085
+ },
+ "TDM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TYL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 33807060.23950531,
+  "n_points": 8477
+ },
+ "CVX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 664981467.3986295,
+  "n_points": 8477
+ },
+ "BBBY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 10465281.145506434,
+  "n_points": 36
+ },
+ "QRVO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 138104712.79455116,
+  "n_points": 2936
+ },
+ "TMK": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HAS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 60963392.509162724,
+  "n_points": 8477
+ },
+ "PANW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 551009767.275695,
+  "n_points": 3552
+ },
+ "PGR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 148736007.47365862,
+  "n_points": 8477
+ },
+ "LII": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 52959004.16384194,
+  "n_points": 6818
+ },
+ "FITB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 132761054.43154803,
+  "n_points": 8477
+ },
+ "ISRG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 285871382.14358276,
+  "n_points": 6594
+ },
+ "WPX": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "WAT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 74736880.72093454,
+  "n_points": 7749
+ },
+ "CHA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 18272738.02581601,
+  "n_points": 348
+ },
+ "HP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 49503381.899778426,
+  "n_points": 8477
+ },
+ "CYR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FBF": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LUMN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 88729123.52282828,
+  "n_points": 8477
+ },
+ "MGM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 134682348.39208534,
+  "n_points": 8477
+ },
+ "MRK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 567196015.3354297,
+  "n_points": 8477
+ },
+ "IFF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 60277718.84708639,
+  "n_points": 8477
+ },
+ "ETS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 274717.6918341117,
+  "n_points": 262
+ },
+ "LUB": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GRMN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 88902716.47095434,
+  "n_points": 6472
+ },
+ "OMX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MDT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 308285017.43073535,
+  "n_points": 8477
+ },
+ "NTRS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 79089609.54247147,
+  "n_points": 8477
+ },
+ "WLL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AON": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 129623017.28347258,
+  "n_points": 8477
+ },
+ "VAT": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "T": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 626367261.878128,
+  "n_points": 8477
+ },
+ "EC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 17241170.267615464,
+  "n_points": 4519
+ },
+ "USB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 242871512.70580974,
+  "n_points": 8477
+ },
+ "BLK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 229368026.88995144,
+  "n_points": 6773
+ },
+ "TUP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FFIV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 104962533.78144218,
+  "n_points": 6856
+ },
+ "PD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 34044472.422449924,
+  "n_points": 1861
+ },
+ "RRD": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FTI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 83961219.27488868,
+  "n_points": 6343
+ },
+ "PSFT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RCL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 151317008.20971388,
+  "n_points": 8397
+ },
+ "NYX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PDG": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BHF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 39217692.93700394,
+  "n_points": 2298
+ },
+ "SWN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TRIP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 98576679.05840933,
+  "n_points": 3707
+ },
+ "AAP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 100863688.58573924,
+  "n_points": 6231
+ },
+ "CE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 81099034.90592843,
+  "n_points": 5440
+ },
+ "FB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4875310573.937355,
+  "n_points": 3595
+ },
+ "ARC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CTB": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ALLE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 78257868.02767119,
+  "n_points": 3218
+ },
+ "H": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 52389163.38380849,
+  "n_points": 4233
+ },
+ "CB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 158146667.726077,
+  "n_points": 8420
+ },
+ "CAM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2466170.1060125837,
+  "n_points": 231
+ },
+ "JEC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CRM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 721264766.4786686,
+  "n_points": 5587
+ },
+ "NSC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 158783775.21181065,
+  "n_points": 8477
+ },
+ "XEC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FRO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 27032033.046313968,
+  "n_points": 6308
+ },
+ "FIS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 158719904.86288503,
+  "n_points": 6340
+ },
+ "CBS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SNA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 39324082.468056254,
+  "n_points": 8477
+ },
+ "MWW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HBI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 112256920.89760086,
+  "n_points": 7249
+ },
+ "JEF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 30421400.474592924,
+  "n_points": 8477
+ },
+ "MDR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ACN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 345969520.83103305,
+  "n_points": 6320
+ },
+ "VIAB": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AHM": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BSX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 201179261.41031986,
+  "n_points": 8477
+ },
+ "FDS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 48970430.466220096,
+  "n_points": 7595
+ },
+ "NCR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AMH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 58944822.54724532,
+  "n_points": 3294
+ },
+ "C": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 961051547.3704504,
+  "n_points": 8477
+ },
+ "KLAC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 280528859.3035493,
+  "n_points": 8477
+ },
+ "COO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 51049186.66014671,
+  "n_points": 8477
+ },
+ "DOC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 68209156.77176034,
+  "n_points": 8477
+ },
+ "WMX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BNI": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 7991312.913432287,
+  "n_points": 949
+ },
+ "AZO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 166689610.05034366,
+  "n_points": 8477
+ },
+ "LVLT": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BLS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "L": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 48300206.54107329,
+  "n_points": 8477
+ },
+ "RBD": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "JNS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HAL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 299273532.4651664,
+  "n_points": 8477
+ },
+ "NSI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 104163.45325126205,
+  "n_points": 688
+ },
+ "INCLF": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TAP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65855580.818829685,
+  "n_points": 8477
+ },
+ "SLB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 425173572.70423216,
+  "n_points": 8477
+ },
+ "HOG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 76840116.04390132,
+  "n_points": 8477
+ },
+ "GDT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 148247.86371607688,
+  "n_points": 157
+ },
+ "VRTX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 165334704.04161313,
+  "n_points": 8477
+ },
+ "LB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 28829665.126772743,
+  "n_points": 549
+ },
+ "APH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 115398822.40913391,
+  "n_points": 8477
+ },
+ "LLY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 554237101.6916414,
+  "n_points": 8477
+ },
+ "TER": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 111448809.67228276,
+  "n_points": 8477
+ },
+ "THC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 64932097.773563445,
+  "n_points": 8477
+ },
+ "JOY": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NGH": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MHS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 0.0,
+  "n_points": 1537
+ },
+ "FTNT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 190360179.81716797,
+  "n_points": 4224
+ },
+ "ITW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 137158563.01142344,
+  "n_points": 8477
+ },
+ "RSG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 83488207.93890321,
+  "n_points": 7089
+ },
+ "HCBK": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TSN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 88933836.97688979,
+  "n_points": 8477
+ },
+ "RMD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 61944342.778915375,
+  "n_points": 7867
+ },
+ "MEA": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DAY": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CTRA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RRC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 71165804.71875933,
+  "n_points": 8477
+ },
+ "TLAB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SEDG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 138684569.6018592,
+  "n_points": 2879
+ },
+ "STLD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 76916181.86602452,
+  "n_points": 7492
+ },
+ "NUE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 142071796.06559107,
+  "n_points": 8477
+ },
+ "BCR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KHC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 287151802.79022163,
+  "n_points": 2810
+ },
+ "COTY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 62395561.19056551,
+  "n_points": 3328
+ },
+ "COL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2837.095392649318,
+  "n_points": 2055
+ },
+ "BBWI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 99876217.43222797,
+  "n_points": 8477
+ },
+ "MOS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 135549300.48850006,
+  "n_points": 8477
+ },
+ "KR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 166534195.48279715,
+  "n_points": 8477
+ },
+ "GAPTQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HUBB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 38323184.840725385,
+  "n_points": 8477
+ },
+ "TSS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "QLGC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LKQ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 48725276.957678735,
+  "n_points": 5766
+ },
+ "RHI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 40661869.87358244,
+  "n_points": 8477
+ },
+ "VTR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 87079035.43480186,
+  "n_points": 7381
+ },
+ "EXPE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 223185987.21705768,
+  "n_points": 5315
+ },
+ "BEV": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LDW-B": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FCN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 22212480.34060924,
+  "n_points": 7630
+ },
+ "KEY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 111833183.81266318,
+  "n_points": 8477
+ },
+ "MRO": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MDLZ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 321220341.3852291,
+  "n_points": 6345
+ },
+ "CLF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 116390958.4298594,
+  "n_points": 8477
+ },
+ "AR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 104867713.1627996,
+  "n_points": 3245
+ },
+ "VLO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 270372055.88334274,
+  "n_points": 8477
+ },
+ "GSX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 107751.27947235107,
+  "n_points": 1
+ },
+ "DLTR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 139759053.0646836,
+  "n_points": 7928
+ },
+ "TXT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65994553.91543426,
+  "n_points": 8477
+ },
+ "NAV": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TFC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 147082868.2276182,
+  "n_points": 8477
+ },
+ "JHF": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KMX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80629617.97013769,
+  "n_points": 7443
+ },
+ "IKN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CSRA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 251720.44285668267,
+  "n_points": 18
+ },
+ "MNR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4244283.147413817,
+  "n_points": 718
+ },
+ "FSL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SCHW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 254188605.51423052,
+  "n_points": 8477
+ },
+ "ABNB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 782921010.0055658,
+  "n_points": 1440
+ },
+ "NI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 55546341.69715066,
+  "n_points": 8477
+ },
+ "VFC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 84914278.05967364,
+  "n_points": 8477
+ },
+ "KDP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 162443086.23255634,
+  "n_points": 4612
+ },
+ "UVN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HPC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FICO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 55894874.10333136,
+  "n_points": 8477
+ },
+ "THY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 297641.24670206313,
+  "n_points": 1557
+ },
+ "CINF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 35998942.5775267,
+  "n_points": 8477
+ },
+ "FRC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AYE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CPAY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 124361898.3590673,
+  "n_points": 3954
+ },
+ "SYK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 151599781.0161283,
+  "n_points": 8477
+ },
+ "NVDA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 5159205240.246462,
+  "n_points": 6948
+ },
+ "WLP": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CHD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 52879271.04537507,
+  "n_points": 8477
+ },
+ "HPQ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 339703325.1816095,
+  "n_points": 8477
+ },
+ "HCA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 277476790.0191355,
+  "n_points": 3896
+ },
+ "SGP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2653551.3846632554,
+  "n_points": 146
+ },
+ "PFE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 754585263.9828287,
+  "n_points": 8477
+ },
+ "WOR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 11256610.60660664,
+  "n_points": 8477
+ },
+ "HCR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PPL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 93939642.68440852,
+  "n_points": 8477
+ },
+ "VIAC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EVHC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65916108.872371726,
+  "n_points": 1299
+ },
+ "BHMSQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DIS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 575671621.3779289,
+  "n_points": 8477
+ },
+ "GWW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 91858704.74405506,
+  "n_points": 8477
+ },
+ "PCAR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 107976955.562938,
+  "n_points": 8477
+ },
+ "PBCT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LUV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 149253444.30248153,
+  "n_points": 8477
+ },
+ "AM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 34776558.84859154,
+  "n_points": 2348
+ },
+ "PMI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 9780245.30343572,
+  "n_points": 256
+ },
+ "META": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4875310573.937355,
+  "n_points": 3595
+ },
+ "ILMN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 161055906.28953642,
+  "n_points": 6565
+ },
+ "HUM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 176538767.0648005,
+  "n_points": 8477
+ },
+ "RNB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PFG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 76844825.93097676,
+  "n_points": 6257
+ },
+ "MCD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 436179342.8813279,
+  "n_points": 8477
+ },
+ "BGG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BALL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 60114805.76370028,
+  "n_points": 8477
+ },
+ "GOOGL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2938155878.567351,
+  "n_points": 5547
+ },
+ "CHRS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 10255804.067253087,
+  "n_points": 2974
+ },
+ "ORCL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 828534765.670233,
+  "n_points": 8477
+ },
+ "IBM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 706835842.7500534,
+  "n_points": 8477
+ },
+ "RAD": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DWDP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BIO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 26520518.304616284,
+  "n_points": 8477
+ },
+ "WLA": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CEG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 556339522.1462713,
+  "n_points": 1162
+ },
+ "SWY": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "YRCW": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ACV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 962751.4096846714,
+  "n_points": 2840
+ },
+ "EPAM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 88888218.7702158,
+  "n_points": 3665
+ },
+ "RVTY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 41564861.886189654,
+  "n_points": 8477
+ },
+ "ITT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 43436506.06227805,
+  "n_points": 7730
+ },
+ "ETFC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KKR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 160689180.0406853,
+  "n_points": 4061
+ },
+ "WEN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 27212466.599301226,
+  "n_points": 8477
+ },
+ "FMCC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 74325481.4306292,
+  "n_points": 8477
+ },
+ "NOW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 613931146.8339661,
+  "n_points": 3566
+ },
+ "MA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 769581422.2322648,
+  "n_points": 5102
+ },
+ "WFC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 694257042.4298525,
+  "n_points": 8477
+ },
+ "MERQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PETM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AAMRQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "APO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 137567100.3140975,
+  "n_points": 3882
+ },
+ "ABT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 332977290.71212316,
+  "n_points": 8477
+ },
+ "MTB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80622621.05348685,
+  "n_points": 8477
+ },
+ "VRSK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 121988712.46976876,
+  "n_points": 4254
+ },
+ "ONE": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LYB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 232703335.26348504,
+  "n_points": 4115
+ },
+ "CFL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "APA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 178204197.92891294,
+  "n_points": 8477
+ },
+ "ADBE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 452436645.43140435,
+  "n_points": 8477
+ },
+ "ANSS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AMT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 218615122.30650696,
+  "n_points": 7175
+ },
+ "MO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 384583845.30645484,
+  "n_points": 8477
+ },
+ "CCK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 46420293.6820661,
+  "n_points": 8477
+ },
+ "TWC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "WIN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HPE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 250655376.01031455,
+  "n_points": 2736
+ },
+ "CDNS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 110918590.95987386,
+  "n_points": 8477
+ },
+ "TEL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 157764446.72037756,
+  "n_points": 4838
+ },
+ "MEL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ACS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AVB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 252868710.66745517,
+  "n_points": 27
+ },
+ "COP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 399278993.4713168,
+  "n_points": 8477
+ },
+ "BJS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HOLX": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SOV": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CYM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SYY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 113084747.3509497,
+  "n_points": 8477
+ },
+ "JH": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NBR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 70978384.52247733,
+  "n_points": 8477
+ },
+ "FANG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 206021964.87838888,
+  "n_points": 3493
+ },
+ "KMI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 286890128.7110042,
+  "n_points": 3914
+ },
+ "CERN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SLM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 62009896.01860173,
+  "n_points": 8477
+ },
+ "SYMC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GEV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1578298642.6374552,
+  "n_points": 613
+ },
+ "UCC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 246656.3446093486,
+  "n_points": 4929
+ },
+ "UAA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 95394706.42286848,
+  "n_points": 5230
+ },
+ "PAYX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 112539492.32409799,
+  "n_points": 8477
+ },
+ "BCO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 15626351.863285122,
+  "n_points": 7719
+ },
+ "IT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 53003887.75618005,
+  "n_points": 8286
+ },
+ "TPR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 152957008.34146878,
+  "n_points": 6516
+ },
+ "PHA": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CGP": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NRTLQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "WFM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CMS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 63019419.800028786,
+  "n_points": 8477
+ },
+ "BOAT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 680155.2129114178,
+  "n_points": 1278
+ },
+ "RX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "USBC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 258138.5949265904,
+  "n_points": 5128
+ },
+ "FLR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 87312571.57336403,
+  "n_points": 6477
+ },
+ "SGID": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 52999588.15382691,
+  "n_points": 7782
+ },
+ "AMGN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 497098939.1782065,
+  "n_points": 8477
+ },
+ "PET": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "JPM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1037779629.5683645,
+  "n_points": 8477
+ },
+ "LH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80291760.44927657,
+  "n_points": 8477
+ },
+ "LVS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 333363589.7013481,
+  "n_points": 5465
+ },
+ "TX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 11779623.314211829,
+  "n_points": 5181
+ },
+ "QEP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EBAY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 451890369.1841525,
+  "n_points": 7030
+ },
+ "MTCH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 102426955.69402692,
+  "n_points": 8466
+ },
+ "BA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 763437285.8239,
+  "n_points": 8477
+ },
+ "SBNY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 83161.92788929903,
+  "n_points": 516
+ },
+ "WMT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 700927551.5639621,
+  "n_points": 8477
+ },
+ "VSTNQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AKAM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 134655866.14731267,
+  "n_points": 6753
+ },
+ "ANTM": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CAR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 81556274.26431383,
+  "n_points": 8477
+ },
+ "NWSA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 58222483.11491324,
+  "n_points": 3324
+ },
+ "ABKFQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FLS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 41243937.03987094,
+  "n_points": 8477
+ },
+ "CTX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CITGQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HRS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LOW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 325994922.38290584,
+  "n_points": 8477
+ },
+ "TFX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 33726342.23048593,
+  "n_points": 8477
+ },
+ "BUD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 125869708.81966034,
+  "n_points": 4322
+ },
+ "AMCC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CVS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 321580229.20911044,
+  "n_points": 8477
+ },
+ "WNDXQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CFN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EVRG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 42464210.35535915,
+  "n_points": 8477
+ },
+ "CEPH": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UAWGQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DISH": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EQ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2853772.9494440765,
+  "n_points": 1984
+ },
+ "INGR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 31039240.57283091,
+  "n_points": 7227
+ },
+ "RYI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ENDP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CLX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 102005385.89524935,
+  "n_points": 8477
+ },
+ "GME": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 189004534.69638819,
+  "n_points": 6180
+ },
+ "BRK-B": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 549452363.5820955,
+  "n_points": 7630
+ },
+ "TMC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 18809198.033323415,
+  "n_points": 1252
+ },
+ "BAX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 155687187.38776118,
+  "n_points": 8477
+ },
+ "PH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 131095198.4701651,
+  "n_points": 8477
+ },
+ "SYF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 201030222.70214403,
+  "n_points": 3043
+ },
+ "ASN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MOB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1644872.2176560839,
+  "n_points": 1011
+ },
+ "CF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 186642092.19139448,
+  "n_points": 5300
+ },
+ "CPB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 70789605.51380327,
+  "n_points": 8477
+ },
+ "GENZ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 627942.8439957377,
+  "n_points": 4684
+ },
+ "IDXX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 72420419.24317549,
+  "n_points": 8477
+ },
+ "WLTW": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BRO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 35514590.43129197,
+  "n_points": 8477
+ },
+ "AIT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 12836996.926454084,
+  "n_points": 8477
+ },
+ "CCB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3702153.256598284,
+  "n_points": 2044
+ },
+ "MOLX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "IPG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MCIC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 11290.824495811297,
+  "n_points": 7287
+ },
+ "LIN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 228839571.05039075,
+  "n_points": 8477
+ },
+ "UN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 16360.04533334212,
+  "n_points": 44
+ },
+ "CTLT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UDR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 42144021.61707835,
+  "n_points": 8477
+ },
+ "MZIAQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TXN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 473812986.9145883,
+  "n_points": 8477
+ },
+ "LXK": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NLV": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NKE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 350185557.289465,
+  "n_points": 8477
+ },
+ "RDC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MSI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 219953571.01627,
+  "n_points": 8477
+ },
+ "REG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 35142153.905794285,
+  "n_points": 8268
+ },
+ "XEL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 93587418.26896302,
+  "n_points": 8477
+ },
+ "NXPI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 367623163.919354,
+  "n_points": 4045
+ },
+ "BXP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 81002277.01457444,
+  "n_points": 7350
+ },
+ "GRN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 422445.63311055076,
+  "n_points": 1751
+ },
+ "APCC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PCH": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "JP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 496462374.0685932,
+  "n_points": 4648
+ },
+ "DJ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PEAK": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NOV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 134906700.4961841,
+  "n_points": 7510
+ },
+ "STO": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ON": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 154743196.54906115,
+  "n_points": 6626
+ },
+ "AZA-A": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RLM": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CHTR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 381636012.6586907,
+  "n_points": 4193
+ },
+ "MPWR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 121310216.96551551,
+  "n_points": 5482
+ },
+ "NBL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DGN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ATO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 36340380.99203645,
+  "n_points": 8477
+ },
+ "CCTYQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PNU": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UMG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FOXA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 155502107.34952813,
+  "n_points": 1883
+ },
+ "EQT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 94454601.53732817,
+  "n_points": 8477
+ },
+ "XRAY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 43159278.242944606,
+  "n_points": 8477
+ },
+ "XOM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1099819152.031166,
+  "n_points": 8477
+ },
+ "TDG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 139382880.26717174,
+  "n_points": 5152
+ },
+ "PKG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 56209787.68365083,
+  "n_points": 6691
+ },
+ "SBAC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 98190604.59193645,
+  "n_points": 6848
+ },
+ "BR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 62749780.80649485,
+  "n_points": 4896
+ },
+ "UK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 298891.30195309996,
+  "n_points": 1715
+ },
+ "TIF": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TMUS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 354685383.7910114,
+  "n_points": 4877
+ },
+ "INTC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1499184277.7490034,
+  "n_points": 8477
+ },
+ "CR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 50290662.51594393,
+  "n_points": 863
+ },
+ "PHM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 92690243.63763933,
+  "n_points": 8477
+ },
+ "INVH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 109387233.02310826,
+  "n_points": 2412
+ },
+ "VO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 71773849.14151214,
+  "n_points": 5686
+ },
+ "WM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 127271249.84753947,
+  "n_points": 8477
+ },
+ "CSGP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65771068.20309356,
+  "n_points": 7089
+ },
+ "HWM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 183054266.7184921,
+  "n_points": 2474
+ },
+ "CZR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 115155737.11850242,
+  "n_points": 3007
+ },
+ "AWK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 91630621.73416805,
+  "n_points": 4622
+ },
+ "FJ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 112691926.80443393,
+  "n_points": 8477
+ },
+ "ARG": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UIS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 15788180.91958507,
+  "n_points": 8477
+ },
+ "SFS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GNW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 54655841.1573415,
+  "n_points": 5606
+ },
+ "NVR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 52407175.74809134,
+  "n_points": 8477
+ },
+ "TRV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 151041793.49938795,
+  "n_points": 8477
+ },
+ "ANDW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CPRT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 59076927.33284312,
+  "n_points": 8172
+ },
+ "CRR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "VNO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 63658401.71918021,
+  "n_points": 8477
+ },
+ "MOH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 68098223.67944165,
+  "n_points": 5832
+ },
+ "HRB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 55107655.420846894,
+  "n_points": 8477
+ },
+ "UAL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 332457188.61089027,
+  "n_points": 5178
+ },
+ "WWY": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DOW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 284968731.4047311,
+  "n_points": 1877
+ },
+ "SNI": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "F": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 434392391.7820804,
+  "n_points": 8477
+ },
+ "DVN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 206273537.14486662,
+  "n_points": 8477
+ },
+ "TRB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ALGN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 109655505.53452955,
+  "n_points": 6438
+ },
+ "KWP": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UNH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 637934082.3148478,
+  "n_points": 8477
+ },
+ "AIZ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 51721420.90064453,
+  "n_points": 5682
+ },
+ "CAT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 450793669.02301276,
+  "n_points": 8477
+ },
+ "CBSS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DLX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 11153429.805095391,
+  "n_points": 8477
+ },
+ "ECL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 106411855.91028057,
+  "n_points": 8477
+ },
+ "AN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 41510409.895437375,
+  "n_points": 8477
+ },
+ "CNXT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1156294.2436083094,
+  "n_points": 3048
+ },
+ "VTSS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "WST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 40741309.36587781,
+  "n_points": 8477
+ },
+ "CXO": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 25918198.15150705,
+  "n_points": 4584
+ },
+ "ADCT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3529197.963904843,
+  "n_points": 1584
+ },
+ "TOY": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FLT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ALK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 49736469.38261086,
+  "n_points": 8477
+ },
+ "WCG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "M": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 159232239.16849366,
+  "n_points": 8477
+ },
+ "BFI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UCM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 15385745.309103452,
+  "n_points": 39
+ },
+ "DXC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 63870599.821835704,
+  "n_points": 8477
+ },
+ "MTW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 18328200.531195305,
+  "n_points": 8477
+ },
+ "PSX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 289600806.4467939,
+  "n_points": 3621
+ },
+ "SAI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NXTL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "JWN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ERIE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 10342068.273497602,
+  "n_points": 7783
+ },
+ "DPHIQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UPS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 346576599.69009525,
+  "n_points": 6745
+ },
+ "TSCO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 83802668.10448946,
+  "n_points": 8191
+ },
+ "USHC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ALB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 90638542.92785597,
+  "n_points": 8189
+ },
+ "CNG": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SJM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 62044110.817579165,
+  "n_points": 8015
+ },
+ "TJX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 208608842.9388216,
+  "n_points": 8477
+ },
+ "BOL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FWLT": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1664151.9806876977,
+  "n_points": 8477
+ },
+ "COV": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CSR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3014732.2397299423,
+  "n_points": 7265
+ },
+ "MSFT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3131038977.594057,
+  "n_points": 8477
+ },
+ "AES": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 70578864.12059759,
+  "n_points": 8477
+ },
+ "GX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ZION": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 61719841.43251254,
+  "n_points": 8477
+ },
+ "FNMA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 116261892.6774868,
+  "n_points": 8477
+ },
+ "PLTR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3304078589.331729,
+  "n_points": 1490
+ },
+ "ARE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 55835614.83829456,
+  "n_points": 7365
+ },
+ "MKG": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SPY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 17201112359.183647,
+  "n_points": 8458
+ },
+ "RTN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "YUM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 160088461.43139344,
+  "n_points": 7287
+ },
+ "EHC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 29535092.638688672,
+  "n_points": 8477
+ },
+ "MJN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DIGI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 995.4204607922968,
+  "n_points": 4104
+ },
+ "OMC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 105832364.34710285,
+  "n_points": 8477
+ },
+ "DPZ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 120610920.39611295,
+  "n_points": 5574
+ },
+ "ACAS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SOTR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FRX": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MKC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 53492524.38862142,
+  "n_points": 8477
+ },
+ "LLX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "STT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 141837601.91373602,
+  "n_points": 8477
+ },
+ "WRK": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 543114432.509845,
+  "n_points": 3972
+ },
+ "GGP": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CBRE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 96211245.32053657,
+  "n_points": 5595
+ },
+ "PNC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 186895918.78916058,
+  "n_points": 8477
+ },
+ "USW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ABI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 197791.57682336445,
+  "n_points": 301
+ },
+ "CSE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NWS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 16691375.372801017,
+  "n_points": 3324
+ },
+ "COST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 450339572.3355072,
+  "n_points": 8477
+ },
+ "TRMB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 34485487.35170096,
+  "n_points": 8477
+ },
+ "JNPR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "K": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DGX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 87789242.95839946,
+  "n_points": 7476
+ },
+ "PXD": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TDY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 41081875.87597921,
+  "n_points": 6736
+ },
+ "STX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 266262678.54241517,
+  "n_points": 5971
+ },
+ "CNX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80300945.74145463,
+  "n_points": 6880
+ },
+ "CDAY": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "COG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MYL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "JBL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65472760.70698535,
+  "n_points": 8394
+ },
+ "WFT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DUK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 179461261.31601474,
+  "n_points": 8477
+ },
+ "UNP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 302276112.9068888,
+  "n_points": 8477
+ },
+ "TMC-A": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LNC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 68747017.19040003,
+  "n_points": 8477
+ },
+ "OM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 9986828.14389701,
+  "n_points": 1501
+ },
+ "LSI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CFG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 183331235.05403554,
+  "n_points": 3005
+ },
+ "ELV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 317187399.7271224,
+  "n_points": 6252
+ },
+ "UA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 44249700.34196589,
+  "n_points": 2629
+ },
+ "MCK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 186627766.95521966,
+  "n_points": 8007
+ },
+ "DHR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 245031208.65590733,
+  "n_points": 8477
+ },
+ "NYN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 577667661.1109473,
+  "n_points": 8477
+ },
+ "BBI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "JOS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ESV": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PCG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 123304188.13537975,
+  "n_points": 8477
+ },
+ "DISCA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BF-B": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 34866083.474333756,
+  "n_points": 8477
+ },
+ "CCI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 152561235.27150595,
+  "n_points": 7056
+ },
+ "CMG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 346485313.5198697,
+  "n_points": 5185
+ },
+ "SB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2104114.8109482885,
+  "n_points": 4596
+ },
+ "FDX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 245920972.5744435,
+  "n_points": 8477
+ },
+ "FHN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 47103864.788064346,
+  "n_points": 8477
+ },
+ "RAL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 84302789.89200845,
+  "n_points": 302
+ },
+ "LDOS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 71312640.91841146,
+  "n_points": 5002
+ },
+ "XLNX": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HLT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 270539757.75379926,
+  "n_points": 3201
+ },
+ "MLM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 82335268.8462313,
+  "n_points": 8191
+ },
+ "EL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 151347229.20901215,
+  "n_points": 7749
+ },
+ "^GSPC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 7512128547155.572,
+  "n_points": 8477
+ },
+ "PBG": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "X": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SXCL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ODFL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 66280332.054020226,
+  "n_points": 8477
+ },
+ "SFA": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DI": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "R": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 30788810.44638932,
+  "n_points": 8477
+ },
+ "JKHY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 33493203.583597552,
+  "n_points": 8477
+ },
+ "NMK": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PAYC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 112728869.58552273,
+  "n_points": 3117
+ },
+ "A": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 141000021.83538735,
+  "n_points": 6739
+ },
+ "EXPD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 66445118.541569136,
+  "n_points": 8477
+ },
+ "KRFT": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NRG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 126253852.47447175,
+  "n_points": 5726
+ },
+ "PVH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 54286419.31084729,
+  "n_points": 8477
+ },
+ "BKNG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 523818399.21063346,
+  "n_points": 6901
+ },
+ "CHIR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 109146.44218695688,
+  "n_points": 1318
+ },
+ "EFU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2349709.7785285087,
+  "n_points": 4745
+ },
+ "FTR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SRR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EQIX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 180713377.30475584,
+  "n_points": 6555
+ },
+ "GS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 867015252.0596244,
+  "n_points": 6878
+ },
+ "AAL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 350656951.08761173,
+  "n_points": 5268
+ },
+ "ULTA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 198358101.81717896,
+  "n_points": 4745
+ },
+ "IR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 138890909.8545836,
+  "n_points": 2342
+ },
+ "KORS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ATGE": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SNV": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FISV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 151703874.9428513,
+  "n_points": 8476
+ },
+ "MTD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65582153.15431254,
+  "n_points": 7245
+ },
+ "SHW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 160524404.49781325,
+  "n_points": 8477
+ },
+ "PALM": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ATI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 69972158.15710871,
+  "n_points": 6733
+ },
+ "LULU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 304414842.8438081,
+  "n_points": 4808
+ },
+ "BDK": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MKTX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 48477559.326262034,
+  "n_points": 5492
+ },
+ "AGC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 265969048.7841419,
+  "n_points": 8477
+ },
+ "CNC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 120843545.1516067,
+  "n_points": 6221
+ },
+ "EOG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 217448952.0155744,
+  "n_points": 8477
+ },
+ "ALXN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SNDK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 7839687176.237451,
+  "n_points": 392
+ },
+ "WMB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 165056995.8595582,
+  "n_points": 8477
+ },
+ "ED": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 94517121.73652284,
+  "n_points": 8477
+ },
+ "PRD": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 155356175.95629975,
+  "n_points": 8477
+ },
+ "TA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NCE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KEYS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 139912452.7811489,
+  "n_points": 2987
+ },
+ "ODP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NCC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KRB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "WTW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 85336287.54766801,
+  "n_points": 6346
+ },
+ "WDAY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 339667529.1892951,
+  "n_points": 3493
+ },
+ "ROL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 22289633.56672619,
+  "n_points": 8477
+ },
+ "GNRC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 90130448.30334137,
+  "n_points": 4167
+ },
+ "PDCO": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AET": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 154306712.34445772,
+  "n_points": 5781
+ },
+ "RJF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 44657574.01428735,
+  "n_points": 8477
+ },
+ "LO": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LEN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 128539182.74709776,
+  "n_points": 8477
+ },
+ "APTV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 166032701.87562543,
+  "n_points": 3720
+ },
+ "ATVI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DYN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 20144168.807466228,
+  "n_points": 1499
+ },
+ "GLW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 222182942.650024,
+  "n_points": 8477
+ },
+ "EP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 61689.92997902301,
+  "n_points": 6755
+ },
+ "DISCK": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "WY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 96506919.62059443,
+  "n_points": 8477
+ },
+ "CSX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 205169874.46481,
+  "n_points": 8477
+ },
+ "PNR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 45058980.25500654,
+  "n_points": 8477
+ },
+ "BMGCA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 92594876.24584205,
+  "n_points": 7354
+ },
+ "WYE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BLDR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 62196404.13254807,
+  "n_points": 5331
+ },
+ "BLY": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MII": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TRGP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 106637156.03152767,
+  "n_points": 3960
+ },
+ "SCG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 69918830.37064818,
+  "n_points": 872
+ },
+ "INFO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1643324.7211352335,
+  "n_points": 477
+ },
+ "GP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2798512.960480844,
+  "n_points": 1512
+ },
+ "SMI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 69554.96099555217,
+  "n_points": 954
+ },
+ "MMI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 5102822.010329368,
+  "n_points": 3230
+ },
+ "LU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 30143936.68537899,
+  "n_points": 1468
+ },
+ "WU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 100295829.33515546,
+  "n_points": 5013
+ },
+ "DRI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 96144511.85356371,
+  "n_points": 7884
+ },
+ "WAI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 0.0,
+  "n_points": 5
+ },
+ "SNPS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 127807715.8487391,
+  "n_points": 8477
+ },
+ "KO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 501668169.2653627,
+  "n_points": 8477
+ },
+ "LEG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 36961485.809671596,
+  "n_points": 5
+ },
+ "OXY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 322164042.82465917,
+  "n_points": 8477
+ },
+ "AS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 110687042.56337395,
+  "n_points": 651
+ },
+ "RE": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "XRX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 72102400.46786003,
+  "n_points": 8477
+ },
+ "GPN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 111833493.47176234,
+  "n_points": 6448
+ },
+ "PAC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 8438065.87128377,
+  "n_points": 5164
+ },
+ "DRE": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GEHC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 259188707.22803447,
+  "n_points": 933
+ },
+ "GDDY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 116537875.85768896,
+  "n_points": 2876
+ },
+ "TEX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 37403797.00995022,
+  "n_points": 8477
+ },
+ "KRI": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CCL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 221327906.69076428,
+  "n_points": 8477
+ },
+ "SEG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 2315276.5730431587,
+  "n_points": 528
+ },
+ "TWX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 423470384.56966054,
+  "n_points": 6398
+ },
+ "BLL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CBB": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "VLTO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 161319484.6010653,
+  "n_points": 733
+ },
+ "AWE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "IVZ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 60886401.92235597,
+  "n_points": 7808
+ },
+ "CG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 56773553.29043424,
+  "n_points": 3606
+ },
+ "ABS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "OWENQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TROW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 90402611.61333261,
+  "n_points": 8477
+ },
+ "VRTS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 8548788.519312784,
+  "n_points": 4446
+ },
+ "AYI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 48131187.99281943,
+  "n_points": 6229
+ },
+ "AXP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 352961872.86917305,
+  "n_points": 8477
+ },
+ "FI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KBH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 56478341.30315942,
+  "n_points": 8477
+ },
+ "ADP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 178373375.52639553,
+  "n_points": 8477
+ },
+ "MU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1235289325.9588566,
+  "n_points": 8477
+ },
+ "CPQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4852433.018877797,
+  "n_points": 338
+ },
+ "VIAV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 149771341.97031045,
+  "n_points": 8255
+ },
+ "CTVA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 198453560.53588524,
+  "n_points": 1831
+ },
+ "O": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 88793943.93820412,
+  "n_points": 8024
+ },
+ "PBI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 30638333.101365592,
+  "n_points": 8477
+ },
+ "GPU": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FOX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 50691489.25122536,
+  "n_points": 1882
+ },
+ "XYL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 92925004.58339436,
+  "n_points": 3745
+ },
+ "OGN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 56776974.1888258,
+  "n_points": 1334
+ },
+ "FMC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 46486690.58650615,
+  "n_points": 8477
+ },
+ "LEHMQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SANM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 39843028.93590649,
+  "n_points": 8407
+ },
+ "GR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PKI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FSH": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TSG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ECH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 13716426.78521134,
+  "n_points": 4727
+ },
+ "FII": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ABBV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 752648960.4415284,
+  "n_points": 3440
+ },
+ "GLD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1478825897.2542953,
+  "n_points": 5483
+ },
+ "PG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 615323063.3968636,
+  "n_points": 8477
+ },
+ "TWTR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "WBD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 172822492.10717043,
+  "n_points": 5324
+ },
+ "FTL-A": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RAI": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BFO": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KSE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HI": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TGNA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PZE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1083349.4270847493,
+  "n_points": 2174
+ },
+ "DTE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 68182119.62671432,
+  "n_points": 8477
+ },
+ "EQR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 234639675.83355793,
+  "n_points": 14
+ },
+ "ABC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 122223444.31783985,
+  "n_points": 7908
+ },
+ "PBY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 198086.8117293197,
+  "n_points": 753
+ },
+ "TNB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BEN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80305337.44638267,
+  "n_points": 8477
+ },
+ "PCS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1522857.2861560876,
+  "n_points": 276
+ },
+ "CTXS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "RTX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 328349242.4962709,
+  "n_points": 8477
+ },
+ "SUB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 24520669.81052846,
+  "n_points": 4475
+ },
+ "FLTWQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 8198208.507276827,
+  "n_points": 4174
+ },
+ "NCLH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 219679805.61618352,
+  "n_points": 3428
+ },
+ "SRCL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BKB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LMT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 265186208.1803559,
+  "n_points": 8477
+ },
+ "MNST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 109199010.24001871,
+  "n_points": 8477
+ },
+ "SRE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 121613167.89578097,
+  "n_points": 7091
+ },
+ "HSP": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PRU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 190068586.44725668,
+  "n_points": 6221
+ },
+ "WB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 62806955.7755895,
+  "n_points": 3115
+ },
+ "BK": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LLTC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TKR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 24728843.5036031,
+  "n_points": 8477
+ },
+ "HRL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 41066875.512567654,
+  "n_points": 8477
+ },
+ "HII": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 67745003.41450472,
+  "n_points": 3888
+ },
+ "NFB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HFC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ANV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 75319.6891127406,
+  "n_points": 148
+ },
+ "PYPL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 995685918.0355188,
+  "n_points": 2810
+ },
+ "DHI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 129282235.66484076,
+  "n_points": 8477
+ },
+ "ENPH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 227080533.34347042,
+  "n_points": 3629
+ },
+ "UBER": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1151250110.391028,
+  "n_points": 1841
+ },
+ "BC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 31323411.923268996,
+  "n_points": 8477
+ },
+ "CEN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FDC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GRA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TIE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TDC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 57686250.19583086,
+  "n_points": 4763
+ },
+ "DG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 279427119.4912738,
+  "n_points": 4227
+ },
+ "WHR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 92530502.62609248,
+  "n_points": 8477
+ },
+ "WBA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "JNY": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "UHS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 53670665.55183397,
+  "n_points": 8477
+ },
+ "WAB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 50136056.34729808,
+  "n_points": 7857
+ },
+ "PPW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PMCS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MCO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 122095164.59408973,
+  "n_points": 8015
+ },
+ "FLIR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ESS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 52235333.37417468,
+  "n_points": 8117
+ },
+ "AMAT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 564768914.6882331,
+  "n_points": 8477
+ },
+ "GFS-A": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GTW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 136691045.70419192,
+  "n_points": 8477
+ },
+ "BIIB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 240686703.00235683,
+  "n_points": 8477
+ },
+ "MAS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 78510086.71167102,
+  "n_points": 8477
+ },
+ "CME": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 270344493.33105814,
+  "n_points": 5974
+ },
+ "UPR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MAT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 66645852.92916683,
+  "n_points": 8477
+ },
+ "GHC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 12521958.44911697,
+  "n_points": 8477
+ },
+ "MD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 19250638.03798469,
+  "n_points": 7791
+ },
+ "PEP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 422921856.6536891,
+  "n_points": 8477
+ },
+ "ADSK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 154118482.6789409,
+  "n_points": 8477
+ },
+ "EXC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 172921731.90749672,
+  "n_points": 8477
+ },
+ "PVN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "QCOM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 783573962.7760543,
+  "n_points": 8477
+ },
+ "NOC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 172554707.53611237,
+  "n_points": 8477
+ },
+ "BKR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 178237057.44040507,
+  "n_points": 8477
+ },
+ "VZ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 528142961.1000151,
+  "n_points": 8477
+ },
+ "EXR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 73058278.04169177,
+  "n_points": 5550
+ },
+ "APD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 137488203.3761179,
+  "n_points": 8477
+ },
+ "WAMUQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CRWD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 976422779.9655012,
+  "n_points": 1819
+ },
+ "HET": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SSP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 8577148.58074672,
+  "n_points": 8477
+ },
+ "TGT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 340924921.14733016,
+  "n_points": 8477
+ },
+ "NEM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 261785995.03314564,
+  "n_points": 8477
+ },
+ "NEE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 237734404.7940308,
+  "n_points": 8477
+ },
+ "MTLQQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EMN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 63678016.130681396,
+  "n_points": 8237
+ },
+ "ADS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EKDKQ": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TSLA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 10728453521.036488,
+  "n_points": 4072
+ },
+ "EMR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 168705508.10213542,
+  "n_points": 8477
+ },
+ "LW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 108822265.48797767,
+  "n_points": 2467
+ },
+ "PSA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 108684059.91944428,
+  "n_points": 8477
+ },
+ "UCL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 272890.33725975006,
+  "n_points": 1568
+ },
+ "CMX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PNW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 41448125.349766344,
+  "n_points": 8477
+ },
+ "AL": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FTV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 157200056.03780797,
+  "n_points": 2558
+ },
+ "BMS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 18187382.24817307,
+  "n_points": 6647
+ },
+ "BGEN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "KMB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 165045243.0764245,
+  "n_points": 8477
+ },
+ "CRL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 54761397.612716146,
+  "n_points": 6589
+ },
+ "MAR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 180907733.54036564,
+  "n_points": 7159
+ },
+ "MER": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 339006.52975451946,
+  "n_points": 1
+ },
+ "PAS": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SEE": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ICE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 240390437.57273057,
+  "n_points": 5232
+ },
+ "ETSY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 234857310.83116218,
+  "n_points": 2865
+ },
+ "AMZN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3436418671.5267115,
+  "n_points": 7373
+ },
+ "KVUE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 460368491.679438,
+  "n_points": 838
+ },
+ "CIN": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "STZ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 117566210.91515255,
+  "n_points": 8477
+ },
+ "HMA": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ENRNQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ORX": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SEBL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NFX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 20791.88621260903,
+  "n_points": 44
+ },
+ "BTUUQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "OK": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FAST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 88564504.44506943,
+  "n_points": 8477
+ },
+ "AEE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 69814182.42548977,
+  "n_points": 7213
+ },
+ "TXU": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NDAQ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 90784924.11921245,
+  "n_points": 6085
+ },
+ "OI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 26007070.678507674,
+  "n_points": 8477
+ },
+ "ES": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 60035748.70302744,
+  "n_points": 8477
+ },
+ "VST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 279177513.33337414,
+  "n_points": 2493
+ },
+ "PARA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1845002.689325849,
+  "n_points": 1397
+ },
+ "PHB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 196252.90336227417,
+  "n_points": 1
+ },
+ "INCY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 62834737.474952325,
+  "n_points": 8264
+ },
+ "DDR": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BSC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HBOC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ACKH": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PGL": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NLC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GPC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 53620137.802363545,
+  "n_points": 8477
+ },
+ "TECH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 28964206.070409767,
+  "n_points": 8477
+ },
+ "GILD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 406195750.2651979,
+  "n_points": 8477
+ },
+ "ETR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 98333004.94852622,
+  "n_points": 8477
+ },
+ "BWA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 55756373.01884994,
+  "n_points": 8322
+ },
+ "SHN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "GLK": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CAG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 88604958.83712247,
+  "n_points": 8477
+ },
+ "CAL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 7052663.234181888,
+  "n_points": 8477
+ },
+ "DOV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 73608593.5067895,
+  "n_points": 8477
+ },
+ "GWF": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CELG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MSCI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 120169073.42444828,
+  "n_points": 4730
+ },
+ "RYC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "OTIS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 202463875.52259022,
+  "n_points": 1625
+ },
+ "COC-B": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "TCOMA": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MUR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 59363800.64568005,
+  "n_points": 8477
+ },
+ "IGT": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CHRW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 87013990.64989293,
+  "n_points": 7266
+ },
+ "HON": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 289524764.43619823,
+  "n_points": 8477
+ },
+ "DELL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 490172779.3378376,
+  "n_points": 2527
+ },
+ "BAC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1199254868.3788314,
+  "n_points": 8477
+ },
+ "HPH": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "BMY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 381298179.2938165,
+  "n_points": 8477
+ },
+ "INTU": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 269301216.6607807,
+  "n_points": 8429
+ },
+ "AMD": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1658341752.1896749,
+  "n_points": 8477
+ },
+ "GL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 34743492.96497834,
+  "n_points": 8477
+ },
+ "CMB": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MAY": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "APC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 3545956.04394859,
+  "n_points": 142
+ },
+ "HBAN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 94947134.73862183,
+  "n_points": 8477
+ },
+ "BIG": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SPG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 166143745.97156876,
+  "n_points": 8237
+ },
+ "LYV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 97812741.28975898,
+  "n_points": 5208
+ },
+ "CI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 195721698.76762778,
+  "n_points": 8477
+ },
+ "CFC": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AME": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 57087777.95485314,
+  "n_points": 8477
+ },
+ "CTSH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 171383651.6253538,
+  "n_points": 7097
+ },
+ "FLMIQ": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SBUX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 343366670.2796307,
+  "n_points": 8477
+ },
+ "ROST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 126914465.49348441,
+  "n_points": 8477
+ },
+ "JNJ": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 711689036.9342244,
+  "n_points": 8477
+ },
+ "SO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 167942801.66610464,
+  "n_points": 8477
+ },
+ "ADM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 123913493.05145904,
+  "n_points": 8477
+ },
+ "IQV": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 174167953.6605727,
+  "n_points": 3352
+ },
+ "GTE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4492795.013842686,
+  "n_points": 5208
+ },
+ "KMG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1290073.5625096557,
+  "n_points": 5482
+ },
+ "GPS": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "IAC": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "PWR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 86328824.13151358,
+  "n_points": 7185
+ },
+ "GIS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 145679465.48634368,
+  "n_points": 8477
+ },
+ "SDS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 572668673.2614903,
+  "n_points": 5069
+ },
+ "MAC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 40026271.67362402,
+  "n_points": 8177
+ },
+ "EIX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 87964095.10760611,
+  "n_points": 8477
+ },
+ "ECO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 8145443.550002218,
+  "n_points": 769
+ },
+ "RBK": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "FRT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 35905113.505666025,
+  "n_points": 8477
+ },
+ "NDSN": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 22010125.617081057,
+  "n_points": 8477
+ },
+ "XTO": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "NAE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "EW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 135360240.73909563,
+  "n_points": 6651
+ },
+ "BBT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 4385730.878079469,
+  "n_points": 6586
+ },
+ "BMET": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MEE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "IRM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 51222112.61729829,
+  "n_points": 7698
+ },
+ "MS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 426353869.21418655,
+  "n_points": 8442
+ },
+ "NLSN": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "SNT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1112617.109434696,
+  "n_points": 8422
+ },
+ "HES": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DWD": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AMP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 139016264.76236877,
+  "n_points": 5276
+ },
+ "NFLX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1423714202.2242079,
+  "n_points": 6111
+ },
+ "SWK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 82383209.28796785,
+  "n_points": 8477
+ },
+ "ROP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 84849708.1924802,
+  "n_points": 8477
+ },
+ "ZBH": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 135683950.4205288,
+  "n_points": 6316
+ },
+ "CMCSA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 440579552.42326844,
+  "n_points": 8477
+ },
+ "VMC": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 80524458.0796573,
+  "n_points": 8477
+ },
+ "GDW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "V": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 1134090078.618512,
+  "n_points": 4646
+ },
+ "MTG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 40302610.59448858,
+  "n_points": 8477
+ },
+ "ANET": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 361181527.1267099,
+  "n_points": 3081
+ },
+ "LNT": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 35534319.01263271,
+  "n_points": 8477
+ },
+ "DXCM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 138825589.89071062,
+  "n_points": 5383
+ },
+ "MAA": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 38357732.81875727,
+  "n_points": 8205
+ },
+ "CDW": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 112993224.71081388,
+  "n_points": 3318
+ },
+ "UNM": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 49731504.44737419,
+  "n_points": 8477
+ },
+ "ROH": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "MHK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 58285507.52632928,
+  "n_points": 8477
+ },
+ "WRB": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 34444184.91076758,
+  "n_points": 8477
+ },
+ "SAPE": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CNW": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "URI": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 130808847.90780933,
+  "n_points": 7222
+ },
+ "AMCR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 59983785.65024538,
+  "n_points": 3598
+ },
+ "HST": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 84257932.58208089,
+  "n_points": 8477
+ },
+ "FSLR": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 297031482.59636796,
+  "n_points": 4979
+ },
+ "AFL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 115831375.15318003,
+  "n_points": 8477
+ },
+ "HSY": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 98424902.2455605,
+  "n_points": 8477
+ },
+ "LRCX": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 316093542.0353749,
+  "n_points": 8477
+ },
+ "TMO": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 265100332.01493078,
+  "n_points": 8477
+ },
+ "BNL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 23032707.153757576,
+  "n_points": 1499
+ },
+ "ROK": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 99899201.53814349,
+  "n_points": 8477
+ },
+ "NLOK": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DF": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "CBOE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 85197215.02666198,
+  "n_points": 4082
+ },
+ "SHEL": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 186628907.72774097,
+  "n_points": 8477
+ },
+ "MDP": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ZTS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 283141285.16478723,
+  "n_points": 3419
+ },
+ "VAR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "LDG": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "DNR": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "ANF": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 90168792.77822992,
+  "n_points": 7533
+ },
+ "EOP": {
+  "ok": false,
+  "reason": "delisted_placeholder",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "I": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "HDLM": {
+  "ok": false,
+  "reason": "no_data:{'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}",
+  "avg_dollar_vol": null,
+  "n_points": null
+ },
+ "AEP": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 132704952.99396434,
+  "n_points": 8477
+ },
+ "AJG": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 65269064.50338531,
+  "n_points": 8477
+ },
+ "GE": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 851675869.6832359,
+  "n_points": 8477
+ },
+ "COMS": {
+  "ok": true,
+  "reason": null,
+  "avg_dollar_vol": 393234.54300324037,
+  "n_points": 4542
+ }
+}

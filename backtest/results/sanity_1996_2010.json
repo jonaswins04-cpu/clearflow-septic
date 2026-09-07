@@ -1,0 +1,907 @@
+{
+ "1_top1_nofilter": {
+  "final_value": 102458.31995831445,
+  "total_contributed": 180000.0,
+  "total_tax_paid": 69779.46194737413,
+  "total_costs_paid": 2963.54249665365,
+  "nav_cagr": -0.12035158248857247,
+  "money_weighted_irr": -0.16431477959164198,
+  "max_drawdown": -0.9323265351014529,
+  "max_drawdown_peak": "1996-12-02",
+  "max_drawdown_trough": "2009-05-01",
+  "worst_calendar_year": 2008,
+  "worst_calendar_year_return": -0.7295160549677201,
+  "first_half_1996_2010": {
+   "cagr": -0.12002809502485068,
+   "max_drawdown": -0.9323265351014529,
+   "max_drawdown_peak": "1996-12-02",
+   "max_drawdown_trough": "2009-05-01",
+   "worst_year": 2008,
+   "worst_year_return": -0.7295160549677201,
+   "start_nav_rebased_final": 0.14690348495594568
+  },
+  "second_half_2011_2025": {},
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "AN"
+    ],
+    "value": 17536.24160941781,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 66.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "SNT"
+    ],
+    "value": 14616.410567121493,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 158.9527908540702
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "WEN"
+    ],
+    "value": 16919.243432698986,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 246.42452428587106
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL"
+    ],
+    "value": 67160.39417951774,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 342.0123905830492
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL"
+    ],
+    "value": 62275.71809482514,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 529.8405152652549
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "EHC"
+    ],
+    "value": 65997.91805400474,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 704.3177383191983
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY"
+    ],
+    "value": 42105.01469422531,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 898.4597218070422
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX"
+    ],
+    "value": 91052.9638452512,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 1046.9505985862274
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB"
+    ],
+    "value": 140713.71184830627,
+    "cash": 0.0,
+    "cum_tax_paid": 37487.21073050266,
+    "cum_costs_paid": 1272.4911972695188
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK"
+    ],
+    "value": 143301.11839060954,
+    "cash": 0.0,
+    "cum_tax_paid": 59041.99965957382,
+    "cum_costs_paid": 1580.599875594138
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO"
+    ],
+    "value": 137446.90204157098,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 1919.032512495383
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "ATI"
+    ],
+    "value": 141873.07706974613,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 2249.3276024255283
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "NOV"
+    ],
+    "value": 50266.33006946684,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 2587.374583001659
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "HRB"
+    ],
+    "value": 72610.1671799482,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 2759.1831831508575
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "THC"
+    ],
+    "value": 102458.31995831445,
+    "cash": 0.0,
+    "cum_tax_paid": 69779.46194737413,
+    "cum_costs_paid": 2963.54249665365
+   }
+  ]
+ },
+ "2_top1_sma200": {
+  "final_value": 382979.1290846983,
+  "total_contributed": 180000.0,
+  "total_tax_paid": 154686.11953792212,
+  "total_costs_paid": 5150.750958631244,
+  "nav_cagr": 0.003714918452210947,
+  "money_weighted_irr": 0.03471238215040828,
+  "max_drawdown": -0.8516875001294888,
+  "max_drawdown_peak": "1996-12-02",
+  "max_drawdown_trough": "1999-03-01",
+  "worst_calendar_year": 1997,
+  "worst_calendar_year_return": -0.6174253060677642,
+  "first_half_1996_2010": {
+   "cagr": 0.00408403091442433,
+   "max_drawdown": -0.8516875001294888,
+   "max_drawdown_peak": "1996-12-02",
+   "max_drawdown_trough": "1999-03-01",
+   "worst_year": 1997,
+   "worst_year_return": -0.6174253060677642,
+   "start_nav_rebased_final": 1.0630431683465527
+  },
+  "second_half_2011_2025": {},
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "AN"
+    ],
+    "value": 17536.24160941781,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 66.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "SNT"
+    ],
+    "value": 14616.410567121493,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 158.9527908540702
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "WEN"
+    ],
+    "value": 16704.041122592607,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 258.0466656424837
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL"
+    ],
+    "value": 46103.05238097149,
+    "cash": 0.0,
+    "cum_tax_paid": 7614.73348735201,
+    "cum_costs_paid": 413.58653273659326
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL"
+    ],
+    "value": 63621.287852942965,
+    "cash": 63621.287852942965,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 619.6606211682516
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "EHC"
+    ],
+    "value": 75621.28785294297,
+    "cash": 75621.28785294297,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 619.6606211682516
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY"
+    ],
+    "value": 81953.37860565668,
+    "cash": 81953.37860565668,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 773.309315032863
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX"
+    ],
+    "value": 154573.24746807068,
+    "cash": 0.0,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 898.7626936385196
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB"
+    ],
+    "value": 200654.57957091523,
+    "cash": 0.0,
+    "cum_tax_paid": 60481.2595121855,
+    "cum_costs_paid": 1535.518842014724
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK"
+    ],
+    "value": 214071.85455177684,
+    "cash": 0.0,
+    "cum_tax_paid": 77418.18678827507,
+    "cum_costs_paid": 1962.4769711356616
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO"
+    ],
+    "value": 200244.87672439744,
+    "cash": 0.0,
+    "cum_tax_paid": 89537.87668471553,
+    "cum_costs_paid": 2437.7942234378415
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "ATI"
+    ],
+    "value": 216016.58129672625,
+    "cash": 216016.58129672625,
+    "cum_tax_paid": 96544.7315848117,
+    "cum_costs_paid": 3107.644509332324
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "NOV"
+    ],
+    "value": 228016.58129672625,
+    "cash": 228016.58129672625,
+    "cum_tax_paid": 96544.7315848117,
+    "cum_costs_paid": 3107.644509332324
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "HRB"
+    ],
+    "value": 368670.0228932341,
+    "cash": 0.0,
+    "cum_tax_paid": 96544.7315848117,
+    "cum_costs_paid": 3374.6610906290502
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "THC"
+    ],
+    "value": 382979.1290846983,
+    "cash": 0.0,
+    "cum_tax_paid": 154686.11953792212,
+    "cum_costs_paid": 5150.750958631244
+   }
+  ]
+ },
+ "3_top5_sma200": {
+  "final_value": 306085.4416708571,
+  "total_contributed": 180000.0,
+  "total_tax_paid": 174785.5100265688,
+  "total_costs_paid": 7774.292045898128,
+  "nav_cagr": 0.06844303157567366,
+  "money_weighted_irr": 0.049075236353619545,
+  "max_drawdown": -0.3262821912125651,
+  "max_drawdown_peak": "2000-09-01",
+  "max_drawdown_trough": "2003-05-01",
+  "worst_calendar_year": 1998,
+  "worst_calendar_year_return": -0.2338291702269355,
+  "first_half_1996_2010": {
+   "cagr": 0.07028452973444699,
+   "max_drawdown": -0.32628219121256496,
+   "max_drawdown_peak": "2000-09-01",
+   "max_drawdown_trough": "2003-05-01",
+   "worst_year": 1998,
+   "worst_year_return": -0.2338291702269355,
+   "start_nav_rebased_final": 2.7700570937884694
+  },
+  "second_half_2011_2025": {},
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "AN",
+     "BSX",
+     "CSCO",
+     "MDT",
+     "AMGN"
+    ],
+    "value": 14150.933199341074,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 306.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "SNT",
+     "TJX",
+     "INTC",
+     "MSFT",
+     "AN"
+    ],
+    "value": 25283.523672595955,
+    "cash": 0.0,
+    "cum_tax_paid": 1075.332149542094,
+    "cum_costs_paid": 650.3797643889307
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "WEN",
+     "NC",
+     "FITB",
+     "LLY",
+     "USB"
+    ],
+    "value": 34184.20814541006,
+    "cash": 0.0,
+    "cum_tax_paid": 2918.5150809576267,
+    "cum_costs_paid": 1008.960973790713
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL",
+     "UIS",
+     "CSCO",
+     "LOW",
+     "MSFT"
+    ],
+    "value": 64812.47254910697,
+    "cash": 0.0,
+    "cum_tax_paid": 9127.801595776753,
+    "cum_costs_paid": 1425.8384240877158
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL",
+     "GLW",
+     "AMAT",
+     "ADBE",
+     "AAPL"
+    ],
+    "value": 82745.99780787855,
+    "cash": 82745.99780787855,
+    "cum_tax_paid": 33900.50780140435,
+    "cum_costs_paid": 1854.4519388426138
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "EHC",
+     "CB",
+     "UNH",
+     "PPL",
+     "LUV"
+    ],
+    "value": 94745.99780787855,
+    "cash": 94745.99780787855,
+    "cum_tax_paid": 33900.50780140435,
+    "cum_costs_paid": 1854.4519388426138
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY",
+     "AZO",
+     "HRB",
+     "DLX",
+     "LOW"
+    ],
+    "value": 104414.11232087383,
+    "cash": 104414.11232087383,
+    "cum_tax_paid": 35181.185817062986,
+    "cum_costs_paid": 2050.990519569945
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX",
+     "HAL",
+     "NEM",
+     "ZBH",
+     "AFL"
+    ],
+    "value": 168791.45090166893,
+    "cash": 0.0,
+    "cum_tax_paid": 35181.185817062986,
+    "cum_costs_paid": 2338.9046318908154
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB",
+     "AES",
+     "SANM",
+     "GLW",
+     "FCX"
+    ],
+    "value": 169582.70187109298,
+    "cash": 0.0,
+    "cum_tax_paid": 64365.20441725998,
+    "cum_costs_paid": 3149.40174347358
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK",
+     "AAPL",
+     "SBUX",
+     "NUE",
+     "GT"
+    ],
+    "value": 230956.44630426998,
+    "cash": 0.0,
+    "cum_tax_paid": 73527.78978185546,
+    "cum_costs_paid": 3752.513919954565
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO",
+     "AAPL",
+     "EOG",
+     "HUM",
+     "ATI"
+    ],
+    "value": 276214.35502783285,
+    "cash": 0.0,
+    "cum_tax_paid": 104861.63481233803,
+    "cum_costs_paid": 4477.588018030258
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "ATI",
+     "NVDA",
+     "NUE",
+     "CMCSA",
+     "CSCO"
+    ],
+    "value": 252931.95945662542,
+    "cash": 252931.95945662542,
+    "cum_tax_paid": 146176.29817859744,
+    "cum_costs_paid": 5509.716975708627
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "NOV",
+     "AMZN",
+     "CNX",
+     "AAPL",
+     "CMI"
+    ],
+    "value": 264931.9594566254,
+    "cash": 264931.9594566254,
+    "cum_tax_paid": 146176.29817859744,
+    "cum_costs_paid": 5509.716975708627
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "HRB",
+     "AMGN",
+     "BBT",
+     "WMT",
+     "AZO"
+    ],
+    "value": 316016.1440500017,
+    "cash": 0.0,
+    "cum_tax_paid": 146176.29817859744,
+    "cum_costs_paid": 5933.648935165263
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "THC",
+     "AMD",
+     "F",
+     "GNW",
+     "MU"
+    ],
+    "value": 306085.4416708571,
+    "cash": 0.0,
+    "cum_tax_paid": 174785.5100265688,
+    "cum_costs_paid": 7774.292045898128
+   }
+  ]
+ },
+ "4_sector5_sma200": {
+  "final_value": 241550.75933967228,
+  "total_contributed": 180000.0,
+  "total_tax_paid": 103303.50855954015,
+  "total_costs_paid": 6970.452924174265,
+  "nav_cagr": 0.06435088582345916,
+  "money_weighted_irr": 0.03066691043693348,
+  "max_drawdown": -0.24780117241630994,
+  "max_drawdown_peak": "2010-05-03",
+  "max_drawdown_trough": "2010-10-01",
+  "worst_calendar_year": 1998,
+  "worst_calendar_year_return": -0.1866131532058125,
+  "first_half_1996_2010": {
+   "cagr": 0.0661853310288738,
+   "max_drawdown": -0.24780117241630994,
+   "max_drawdown_peak": "2010-05-03",
+   "max_drawdown_trough": "2010-10-01",
+   "worst_year": 1998,
+   "worst_year_return": -0.1866131532058124,
+   "start_nav_rebased_final": 2.6151135182195047
+  },
+  "second_half_2011_2025": {},
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "BSX",
+     "CSCO",
+     "C",
+     "NKE",
+     "LMT"
+    ],
+    "value": 14563.33750565102,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 306.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "TJX",
+     "INTC",
+     "COST",
+     "PCAR",
+     "USB"
+    ],
+    "value": 35816.10496410333,
+    "cash": 0.0,
+    "cum_tax_paid": 1180.1703103822224,
+    "cum_costs_paid": 650.7426027283178
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "FITB",
+     "LLY",
+     "CMCSA",
+     "PH",
+     "COST"
+    ],
+    "value": 44479.311806791986,
+    "cash": 0.0,
+    "cum_tax_paid": 6862.952084675658,
+    "cum_costs_paid": 1027.0879603115127
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL",
+     "LOW",
+     "SCHW",
+     "WMT",
+     "AMGN"
+    ],
+    "value": 74207.03767588177,
+    "cash": 0.0,
+    "cum_tax_paid": 14872.484430804685,
+    "cum_costs_paid": 1475.4098571060179
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL",
+     "AMGN",
+     "MS",
+     "FCX",
+     "HD"
+    ],
+    "value": 74597.48426927783,
+    "cash": 74597.48426927783,
+    "cum_tax_paid": 26059.184787373808,
+    "cum_costs_paid": 1901.1207119765832
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "CB",
+     "UNH",
+     "PPL",
+     "LUV",
+     "APA"
+    ],
+    "value": 86597.48426927783,
+    "cash": 86597.48426927783,
+    "cum_tax_paid": 26059.184787373808,
+    "cum_costs_paid": 1901.1207119765832
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY",
+     "BSX",
+     "FCX",
+     "SWK",
+     "MSFT"
+    ],
+    "value": 94997.03055376487,
+    "cash": 94997.03055376487,
+    "cum_tax_paid": 26234.400091600735,
+    "cum_costs_paid": 2078.9777016092157
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX",
+     "HAL",
+     "NEM",
+     "AFL",
+     "LMT"
+    ],
+    "value": 145259.34869653877,
+    "cash": 0.0,
+    "cum_tax_paid": 26234.400091600735,
+    "cum_costs_paid": 2357.4747321629784
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB",
+     "AES",
+     "GLW",
+     "FCX",
+     "HUM"
+    ],
+    "value": 165200.47452665135,
+    "cash": 0.0,
+    "cum_tax_paid": 48360.93046305703,
+    "cum_costs_paid": 3104.260984364367
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK",
+     "SBUX",
+     "NUE",
+     "BIIB",
+     "CMI"
+    ],
+    "value": 170743.28163090104,
+    "cash": 0.0,
+    "cum_tax_paid": 60754.483184762415,
+    "cum_costs_paid": 3696.570394202153
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO",
+     "AAPL",
+     "HUM",
+     "AON",
+     "FCX"
+    ],
+    "value": 179308.76871789445,
+    "cash": 0.0,
+    "cum_tax_paid": 70683.54164550145,
+    "cum_costs_paid": 4316.743572624571
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "NVDA",
+     "NUE",
+     "CMCSA",
+     "GS",
+     "TMO"
+    ],
+    "value": 191257.1608993347,
+    "cash": 191257.1608993347,
+    "cum_tax_paid": 86007.36791124144,
+    "cum_costs_paid": 5124.444738314972
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "AMZN",
+     "AAPL",
+     "CMI",
+     "FCX",
+     "APA"
+    ],
+    "value": 203257.1608993347,
+    "cash": 203257.1608993347,
+    "cum_tax_paid": 86007.36791124144,
+    "cum_costs_paid": 5124.444738314972
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "AMGN",
+     "WMT",
+     "AZO",
+     "PSA",
+     "SHW"
+    ],
+    "value": 240591.8672076395,
+    "cash": 0.0,
+    "cum_tax_paid": 86007.36791124144,
+    "cum_costs_paid": 5486.701899214316
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "AMD",
+     "F",
+     "CBRE",
+     "FCX",
+     "ISRG"
+    ],
+    "value": 241550.75933967228,
+    "cash": 0.0,
+    "cum_tax_paid": 103303.50855954015,
+    "cum_costs_paid": 6970.452924174265
+   }
+  ]
+ },
+ "benchmark_spy_drip": {
+  "final_value": 241623.28332874505,
+  "total_contributed": 180000.0,
+  "total_tax_paid": 0.0,
+  "total_costs_paid": 990.0,
+  "nav_cagr": 0.06082589511805736,
+  "money_weighted_irr": 0.032838766168327815,
+  "max_drawdown": -0.5291969041066358,
+  "max_drawdown_peak": "2007-10-01",
+  "max_drawdown_trough": "2009-03-02",
+  "worst_calendar_year": 2008,
+  "worst_calendar_year_return": -0.43240341318754927,
+  "first_half_1996_2010": {
+   "cagr": 0.061216009931465365,
+   "max_drawdown": -0.5291969041066358,
+   "max_drawdown_peak": "2007-10-01",
+   "max_drawdown_trough": "2009-03-02",
+   "worst_year": 2008,
+   "worst_year_return": -0.43240341318754927,
+   "start_nav_rebased_final": 2.4381302314460283
+  },
+  "second_half_2011_2025": {},
+  "yearly": [
+   {
+    "year": 1996,
+    "value": 13369.15354846995
+   },
+   {
+    "year": 1997,
+    "value": 31492.653734670395
+   },
+   {
+    "year": 1998,
+    "value": 54389.413812147846
+   },
+   {
+    "year": 1999,
+    "value": 78921.72577060996
+   },
+   {
+    "year": 2000,
+    "value": 82177.46059302382
+   },
+   {
+    "year": 2001,
+    "value": 84002.63739076765
+   },
+   {
+    "year": 2002,
+    "value": 76514.88316572842
+   },
+   {
+    "year": 2003,
+    "value": 112149.79968698007
+   },
+   {
+    "year": 2004,
+    "value": 137033.81036106797
+   },
+   {
+    "year": 2005,
+    "value": 156094.02087469556
+   },
+   {
+    "year": 2006,
+    "value": 193915.29220549134
+   },
+   {
+    "year": 2007,
+    "value": 215868.0058601555
+   },
+   {
+    "year": 2008,
+    "value": 145350.30489538063
+   },
+   {
+    "year": 2009,
+    "value": 198305.47591626397
+   },
+   {
+    "year": 2010,
+    "value": 241623.28332874505
+   }
+  ]
+ }
+}

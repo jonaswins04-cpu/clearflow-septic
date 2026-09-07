@@ -1,0 +1,1727 @@
+{
+ "1_top1_nofilter": {
+  "final_value": 5390375.291034245,
+  "total_contributed": 360000.0,
+  "total_tax_paid": 3166150.994210153,
+  "total_costs_paid": 31993.716203256387,
+  "nav_cagr": 0.05821120789982803,
+  "money_weighted_irr": 0.14662869196779482,
+  "max_drawdown": -0.9323265351014529,
+  "max_drawdown_peak": "1996-12-02",
+  "max_drawdown_trough": "2009-05-01",
+  "worst_calendar_year": 2008,
+  "worst_calendar_year_return": -0.7295160549677201,
+  "first_half_1996_2010": {
+   "cagr": -0.12002809502485068,
+   "max_drawdown": -0.9323265351014529,
+   "max_drawdown_peak": "1996-12-02",
+   "max_drawdown_trough": "2009-05-01",
+   "worst_year": 2008,
+   "worst_year_return": -0.7295160549677201,
+   "start_nav_rebased_final": 0.14690348495594568
+  },
+  "second_half_2011_2025": {
+   "cagr": 0.23921647140245716,
+   "max_drawdown": -0.4400011813094694,
+   "max_drawdown_peak": "2014-09-02",
+   "max_drawdown_trough": "2015-07-01",
+   "worst_year": 2023,
+   "worst_year_return": -0.25966948327717176,
+   "start_nav_rebased_final": 24.957878151976967
+  },
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "AN"
+    ],
+    "value": 17536.24160941781,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 66.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "SNT"
+    ],
+    "value": 14616.410567121493,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 158.9527908540702
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "WEN"
+    ],
+    "value": 16919.243432698986,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 246.42452428587106
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL"
+    ],
+    "value": 67160.39417951774,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 342.0123905830492
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL"
+    ],
+    "value": 62275.71809482514,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 529.8405152652549
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "EHC"
+    ],
+    "value": 65997.91805400474,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 704.3177383191983
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY"
+    ],
+    "value": 42105.01469422531,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 898.4597218070422
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX"
+    ],
+    "value": 91052.9638452512,
+    "cash": 0.0,
+    "cum_tax_paid": 22038.160063719573,
+    "cum_costs_paid": 1046.9505985862274
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB"
+    ],
+    "value": 140713.71184830627,
+    "cash": 0.0,
+    "cum_tax_paid": 37487.21073050266,
+    "cum_costs_paid": 1272.4911972695188
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK"
+    ],
+    "value": 143301.11839060954,
+    "cash": 0.0,
+    "cum_tax_paid": 59041.99965957382,
+    "cum_costs_paid": 1580.599875594138
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO"
+    ],
+    "value": 137446.90204157098,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 1919.032512495383
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "ATI"
+    ],
+    "value": 141873.07706974613,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 2249.3276024255283
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "NOV"
+    ],
+    "value": 50266.33006946684,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 2587.374583001659
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "HRB"
+    ],
+    "value": 72610.1671799482,
+    "cash": 0.0,
+    "cum_tax_paid": 67234.3751460541,
+    "cum_costs_paid": 2759.1831831508575
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "THC"
+    ],
+    "value": 102458.31995831445,
+    "cash": 0.0,
+    "cum_tax_paid": 69779.46194737413,
+    "cum_costs_paid": 2963.54249665365
+   },
+   {
+    "year": 2011,
+    "targets": [
+     "CMI"
+    ],
+    "value": 85524.4640050676,
+    "cash": 0.0,
+    "cum_tax_paid": 79701.83667965968,
+    "cum_costs_paid": 3223.3019548078078
+   },
+   {
+    "year": 2012,
+    "targets": [
+     "ISRG"
+    ],
+    "value": 103186.69505335491,
+    "cash": 0.0,
+    "cum_tax_paid": 79701.83667965968,
+    "cum_costs_paid": 3461.650690763491
+   },
+   {
+    "year": 2013,
+    "targets": [
+     "PHM"
+    ],
+    "value": 126457.88684425977,
+    "cash": 0.0,
+    "cum_tax_paid": 81662.16782717072,
+    "cum_costs_paid": 3730.468140816076
+   },
+   {
+    "year": 2014,
+    "targets": [
+     "NFLX"
+    ],
+    "value": 123034.46311771678,
+    "cash": 0.0,
+    "cum_tax_paid": 86194.01025487928,
+    "cum_costs_paid": 4036.6266530365583
+   },
+   {
+    "year": 2015,
+    "targets": [
+     "LUV"
+    ],
+    "value": 140049.6050648824,
+    "cash": 0.0,
+    "cum_tax_paid": 86194.01025487928,
+    "cum_costs_paid": 4349.34984032444
+   },
+   {
+    "year": 2016,
+    "targets": [
+     "NFLX"
+    ],
+    "value": 167818.46403667022,
+    "cash": 0.0,
+    "cum_tax_paid": 86194.01025487928,
+    "cum_costs_paid": 4683.657242692162
+   },
+   {
+    "year": 2017,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 324518.627694803,
+    "cash": 0.0,
+    "cum_tax_paid": 97223.52248814833,
+    "cum_costs_paid": 5079.595864806529
+   },
+   {
+    "year": 2018,
+    "targets": [
+     "NRG"
+    ],
+    "value": 374474.49713550747,
+    "cash": 0.0,
+    "cum_tax_paid": 169493.68832708435,
+    "cum_costs_paid": 5737.150818868626
+   },
+   {
+    "year": 2019,
+    "targets": [
+     "AMD"
+    ],
+    "value": 800953.4780572793,
+    "cash": 0.0,
+    "cum_tax_paid": 208473.53007360626,
+    "cum_costs_paid": 6480.079110516433
+   },
+   {
+    "year": 2020,
+    "targets": [
+     "AMD"
+    ],
+    "value": 1177004.358036211,
+    "cash": 0.0,
+    "cum_tax_paid": 444283.2575427593,
+    "cum_costs_paid": 8019.993134466364
+   },
+   {
+    "year": 2021,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 2117707.870077496,
+    "cash": 0.0,
+    "cum_tax_paid": 692323.6519978624,
+    "cum_costs_paid": 10201.421078681527
+   },
+   {
+    "year": 2022,
+    "targets": [
+     "DVN"
+    ],
+    "value": 2369194.754556135,
+    "cash": 0.0,
+    "cum_tax_paid": 1241461.6913178493,
+    "cum_costs_paid": 14049.274647998993
+   },
+   {
+    "year": 2023,
+    "targets": [
+     "OXY"
+    ],
+    "value": 1952088.8811084195,
+    "cash": 0.0,
+    "cum_tax_paid": 1515303.898885998,
+    "cum_costs_paid": 18311.936192776542
+   },
+   {
+    "year": 2024,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 5481328.976476696,
+    "cash": 0.0,
+    "cum_tax_paid": 1515303.898885998,
+    "cum_costs_paid": 22297.88228211662
+   },
+   {
+    "year": 2025,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 5390375.291034245,
+    "cash": 0.0,
+    "cum_tax_paid": 3166150.994210153,
+    "cum_costs_paid": 31993.716203256387
+   }
+  ]
+ },
+ "2_top1_sma200": {
+  "final_value": 3295484.074674921,
+  "total_contributed": 360000.0,
+  "total_tax_paid": 2807388.2688376023,
+  "total_costs_paid": 52806.48254784583,
+  "nav_cagr": 0.07873140297127112,
+  "money_weighted_irr": 0.12205799051651534,
+  "max_drawdown": -0.8516875001294888,
+  "max_drawdown_peak": "1996-12-02",
+  "max_drawdown_trough": "1999-03-01",
+  "worst_calendar_year": 1997,
+  "worst_calendar_year_return": -0.6174253060677642,
+  "first_half_1996_2010": {
+   "cagr": 0.00408403091442433,
+   "max_drawdown": -0.8516875001294888,
+   "max_drawdown_peak": "1996-12-02",
+   "max_drawdown_trough": "1999-03-01",
+   "worst_year": 1997,
+   "worst_year_return": -0.6174253060677642,
+   "start_nav_rebased_final": 1.0630431683465527
+  },
+  "second_half_2011_2025": {
+   "cagr": 0.13327358345909457,
+   "max_drawdown": -0.5248966259642824,
+   "max_drawdown_peak": "2011-05-02",
+   "max_drawdown_trough": "2016-05-02",
+   "worst_year": 2025,
+   "worst_year_return": -0.2665944784519202,
+   "start_nav_rebased_final": 6.531628608852301
+  },
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "AN"
+    ],
+    "value": 17536.24160941781,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 66.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "SNT"
+    ],
+    "value": 14616.410567121493,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 158.9527908540702
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "WEN"
+    ],
+    "value": 16704.041122592607,
+    "cash": 0.0,
+    "cum_tax_paid": 2197.1489421712545,
+    "cum_costs_paid": 258.0466656424837
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL"
+    ],
+    "value": 46103.05238097149,
+    "cash": 0.0,
+    "cum_tax_paid": 7614.73348735201,
+    "cum_costs_paid": 413.58653273659326
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL"
+    ],
+    "value": 63621.287852942965,
+    "cash": 63621.287852942965,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 619.6606211682516
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "EHC"
+    ],
+    "value": 75621.28785294297,
+    "cash": 75621.28785294297,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 619.6606211682516
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY"
+    ],
+    "value": 81953.37860565668,
+    "cash": 81953.37860565668,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 773.309315032863
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX"
+    ],
+    "value": 154573.24746807068,
+    "cash": 0.0,
+    "cum_tax_paid": 21242.125439188527,
+    "cum_costs_paid": 898.7626936385196
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB"
+    ],
+    "value": 200654.57957091523,
+    "cash": 0.0,
+    "cum_tax_paid": 60481.2595121855,
+    "cum_costs_paid": 1535.518842014724
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK"
+    ],
+    "value": 214071.85455177684,
+    "cash": 0.0,
+    "cum_tax_paid": 77418.18678827507,
+    "cum_costs_paid": 1962.4769711356616
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO"
+    ],
+    "value": 200244.87672439744,
+    "cash": 0.0,
+    "cum_tax_paid": 89537.87668471553,
+    "cum_costs_paid": 2437.7942234378415
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "ATI"
+    ],
+    "value": 216016.58129672625,
+    "cash": 216016.58129672625,
+    "cum_tax_paid": 96544.7315848117,
+    "cum_costs_paid": 3107.644509332324
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "NOV"
+    ],
+    "value": 228016.58129672625,
+    "cash": 228016.58129672625,
+    "cum_tax_paid": 96544.7315848117,
+    "cum_costs_paid": 3107.644509332324
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "HRB"
+    ],
+    "value": 368670.0228932341,
+    "cash": 0.0,
+    "cum_tax_paid": 96544.7315848117,
+    "cum_costs_paid": 3374.6610906290502
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "THC"
+    ],
+    "value": 382979.1290846983,
+    "cash": 0.0,
+    "cum_tax_paid": 154686.11953792212,
+    "cum_costs_paid": 5150.750958631244
+   },
+   {
+    "year": 2011,
+    "targets": [
+     "CMI"
+    ],
+    "value": 281137.64417324297,
+    "cash": 281137.64417324297,
+    "cum_tax_paid": 213059.12368197314,
+    "cum_costs_paid": 6187.456242265134
+   },
+   {
+    "year": 2012,
+    "targets": [
+     "ISRG"
+    ],
+    "value": 262634.8168912916,
+    "cash": 0.0,
+    "cum_tax_paid": 221261.2446177191,
+    "cum_costs_paid": 7121.317014193057
+   },
+   {
+    "year": 2013,
+    "targets": [
+     "PHM"
+    ],
+    "value": 306964.8230909422,
+    "cash": 0.0,
+    "cum_tax_paid": 221261.2446177191,
+    "cum_costs_paid": 7715.479017918274
+   },
+   {
+    "year": 2014,
+    "targets": [
+     "NFLX"
+    ],
+    "value": 284160.2405983034,
+    "cash": 0.0,
+    "cum_tax_paid": 232251.09906463066,
+    "cum_costs_paid": 8370.87569953025
+   },
+   {
+    "year": 2015,
+    "targets": [
+     "LUV"
+    ],
+    "value": 238701.82097528782,
+    "cash": 0.0,
+    "cum_tax_paid": 232251.09906463066,
+    "cum_costs_paid": 9509.315100448754
+   },
+   {
+    "year": 2016,
+    "targets": [
+     "NFLX"
+    ],
+    "value": 286196.89070342714,
+    "cash": 0.0,
+    "cum_tax_paid": 232251.09906463066,
+    "cum_costs_paid": 10022.290518912409
+   },
+   {
+    "year": 2017,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 534083.932474628,
+    "cash": 0.0,
+    "cum_tax_paid": 254904.7919728142,
+    "cum_costs_paid": 10650.296704537033
+   },
+   {
+    "year": 2018,
+    "targets": [
+     "NRG"
+    ],
+    "value": 501529.5601743086,
+    "cash": 0.0,
+    "cum_tax_paid": 426960.8669180193,
+    "cum_costs_paid": 13621.62553993336
+   },
+   {
+    "year": 2019,
+    "targets": [
+     "AMD"
+    ],
+    "value": 788724.6332035407,
+    "cash": 0.0,
+    "cum_tax_paid": 462661.4433919908,
+    "cum_costs_paid": 15726.855083471964
+   },
+   {
+    "year": 2020,
+    "targets": [
+     "AMD"
+    ],
+    "value": 1086515.0092766443,
+    "cash": 0.0,
+    "cum_tax_paid": 600743.6461649246,
+    "cum_costs_paid": 18583.061709479975
+   },
+   {
+    "year": 2021,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 2010487.466583498,
+    "cash": 0.0,
+    "cum_tax_paid": 805616.1233742806,
+    "cum_costs_paid": 20625.60564276701
+   },
+   {
+    "year": 2022,
+    "targets": [
+     "DVN"
+    ],
+    "value": 1596054.5689953477,
+    "cash": 0.0,
+    "cum_tax_paid": 1533424.6596928022,
+    "cum_costs_paid": 31479.853658135187
+   },
+   {
+    "year": 2023,
+    "targets": [
+     "OXY"
+    ],
+    "value": 1502821.210628619,
+    "cash": 0.0,
+    "cum_tax_paid": 1533424.6596928022,
+    "cum_costs_paid": 37494.867735945256
+   },
+   {
+    "year": 2024,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 4181305.8312608115,
+    "cash": 0.0,
+    "cum_tax_paid": 1548685.6259683052,
+    "cum_costs_paid": 40562.35282055653
+   },
+   {
+    "year": 2025,
+    "targets": [
+     "NVDA"
+    ],
+    "value": 3295484.074674921,
+    "cash": 0.0,
+    "cum_tax_paid": 2807388.2688376023,
+    "cum_costs_paid": 52806.48254784583
+   }
+  ]
+ },
+ "3_top5_sma200": {
+  "final_value": 593013.1903677217,
+  "total_contributed": 360000.0,
+  "total_tax_paid": 808251.6019337487,
+  "total_costs_paid": 29487.968506412733,
+  "nav_cagr": 0.04165552537679651,
+  "money_weighted_irr": 0.030301961135519306,
+  "max_drawdown": -0.5446555821596745,
+  "max_drawdown_peak": "2010-04-01",
+  "max_drawdown_trough": "2013-09-03",
+  "worst_calendar_year": 2011,
+  "worst_calendar_year_return": -0.3259206105231509,
+  "first_half_1996_2010": {
+   "cagr": 0.07028452973444699,
+   "max_drawdown": -0.32628219121256496,
+   "max_drawdown_peak": "2000-09-01",
+   "max_drawdown_trough": "2003-05-01",
+   "worst_year": 1998,
+   "worst_year_return": -0.2338291702269355,
+   "start_nav_rebased_final": 2.7700570937884694
+  },
+  "second_half_2011_2025": {
+   "cagr": 0.010322575750680851,
+   "max_drawdown": -0.4738765585456419,
+   "max_drawdown_peak": "2021-12-01",
+   "max_drawdown_trough": "2023-06-01",
+   "worst_year": 2011,
+   "worst_year_return": -0.3760370284794895,
+   "start_nav_rebased_final": 1.1665432947689882
+  },
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "AN",
+     "BSX",
+     "CSCO",
+     "MDT",
+     "AMGN"
+    ],
+    "value": 14150.933199341074,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 306.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "SNT",
+     "TJX",
+     "INTC",
+     "MSFT",
+     "AN"
+    ],
+    "value": 25283.523672595955,
+    "cash": 0.0,
+    "cum_tax_paid": 1075.332149542094,
+    "cum_costs_paid": 650.3797643889307
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "WEN",
+     "NC",
+     "FITB",
+     "LLY",
+     "USB"
+    ],
+    "value": 34184.20814541006,
+    "cash": 0.0,
+    "cum_tax_paid": 2918.5150809576267,
+    "cum_costs_paid": 1008.960973790713
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL",
+     "UIS",
+     "CSCO",
+     "LOW",
+     "MSFT"
+    ],
+    "value": 64812.47254910697,
+    "cash": 0.0,
+    "cum_tax_paid": 9127.801595776753,
+    "cum_costs_paid": 1425.8384240877158
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL",
+     "GLW",
+     "AMAT",
+     "ADBE",
+     "AAPL"
+    ],
+    "value": 82745.99780787855,
+    "cash": 82745.99780787855,
+    "cum_tax_paid": 33900.50780140435,
+    "cum_costs_paid": 1854.4519388426138
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "EHC",
+     "CB",
+     "UNH",
+     "PPL",
+     "LUV"
+    ],
+    "value": 94745.99780787855,
+    "cash": 94745.99780787855,
+    "cum_tax_paid": 33900.50780140435,
+    "cum_costs_paid": 1854.4519388426138
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY",
+     "AZO",
+     "HRB",
+     "DLX",
+     "LOW"
+    ],
+    "value": 104414.11232087383,
+    "cash": 104414.11232087383,
+    "cum_tax_paid": 35181.185817062986,
+    "cum_costs_paid": 2050.990519569945
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX",
+     "HAL",
+     "NEM",
+     "ZBH",
+     "AFL"
+    ],
+    "value": 168791.45090166893,
+    "cash": 0.0,
+    "cum_tax_paid": 35181.185817062986,
+    "cum_costs_paid": 2338.9046318908154
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB",
+     "AES",
+     "SANM",
+     "GLW",
+     "FCX"
+    ],
+    "value": 169582.70187109298,
+    "cash": 0.0,
+    "cum_tax_paid": 64365.20441725998,
+    "cum_costs_paid": 3149.40174347358
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK",
+     "AAPL",
+     "SBUX",
+     "NUE",
+     "GT"
+    ],
+    "value": 230956.44630426998,
+    "cash": 0.0,
+    "cum_tax_paid": 73527.78978185546,
+    "cum_costs_paid": 3752.513919954565
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO",
+     "AAPL",
+     "EOG",
+     "HUM",
+     "ATI"
+    ],
+    "value": 276214.35502783285,
+    "cash": 0.0,
+    "cum_tax_paid": 104861.63481233803,
+    "cum_costs_paid": 4477.588018030258
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "ATI",
+     "NVDA",
+     "NUE",
+     "CMCSA",
+     "CSCO"
+    ],
+    "value": 252931.95945662542,
+    "cash": 252931.95945662542,
+    "cum_tax_paid": 146176.29817859744,
+    "cum_costs_paid": 5509.716975708627
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "NOV",
+     "AMZN",
+     "CNX",
+     "AAPL",
+     "CMI"
+    ],
+    "value": 264931.9594566254,
+    "cash": 264931.9594566254,
+    "cum_tax_paid": 146176.29817859744,
+    "cum_costs_paid": 5509.716975708627
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "HRB",
+     "AMGN",
+     "BBT",
+     "WMT",
+     "AZO"
+    ],
+    "value": 316016.1440500017,
+    "cash": 0.0,
+    "cum_tax_paid": 146176.29817859744,
+    "cum_costs_paid": 5933.648935165263
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "THC",
+     "AMD",
+     "F",
+     "GNW",
+     "MU"
+    ],
+    "value": 306085.4416708571,
+    "cash": 0.0,
+    "cum_tax_paid": 174785.5100265688,
+    "cum_costs_paid": 7774.292045898128
+   },
+   {
+    "year": 2011,
+    "targets": [
+     "CMI",
+     "AIG",
+     "HBAN",
+     "ZION",
+     "AKAM"
+    ],
+    "value": 187009.24810797474,
+    "cash": 187009.24810797474,
+    "cum_tax_paid": 204596.26859406338,
+    "cum_costs_paid": 8735.670735475507
+   },
+   {
+    "year": 2012,
+    "targets": [
+     "ISRG",
+     "MA",
+     "BIIB",
+     "HUM",
+     "OKE"
+    ],
+    "value": 191542.9964304649,
+    "cash": 0.0,
+    "cum_tax_paid": 208699.38431207917,
+    "cum_costs_paid": 9536.573120618305
+   },
+   {
+    "year": 2013,
+    "targets": [
+     "PHM",
+     "WHR",
+     "EXPE",
+     "BAC",
+     "LEN"
+    ],
+    "value": 243483.42984160763,
+    "cash": 0.0,
+    "cum_tax_paid": 212791.24298429157,
+    "cum_costs_paid": 10205.503088159014
+   },
+   {
+    "year": 2014,
+    "targets": [
+     "NFLX",
+     "BBY",
+     "MU",
+     "PBI",
+     "BSX"
+    ],
+    "value": 270539.36123350746,
+    "cash": 0.0,
+    "cum_tax_paid": 231102.8242077975,
+    "cum_costs_paid": 10956.199450322843
+   },
+   {
+    "year": 2015,
+    "targets": [
+     "LUV",
+     "EW",
+     "DAL",
+     "KR",
+     "MNST"
+    ],
+    "value": 270054.0971517002,
+    "cash": 0.0,
+    "cum_tax_paid": 255849.26344348557,
+    "cum_costs_paid": 12217.042733324784
+   },
+   {
+    "year": 2016,
+    "targets": [
+     "NFLX",
+     "AMZN",
+     "NVDA",
+     "HRL",
+     "VRSN"
+    ],
+    "value": 381165.48639768723,
+    "cash": 0.0,
+    "cum_tax_paid": 259335.96901714598,
+    "cum_costs_paid": 12949.048268958539
+   },
+   {
+    "year": 2017,
+    "targets": [
+     "NVDA",
+     "OKE",
+     "FCX",
+     "NEM",
+     "AMAT"
+    ],
+    "value": 460925.45122557983,
+    "cash": 0.0,
+    "cum_tax_paid": 314692.9754282032,
+    "cum_costs_paid": 13930.183103443824
+   },
+   {
+    "year": 2018,
+    "targets": [
+     "NRG",
+     "VRTX",
+     "WYNN",
+     "BA",
+     "NVDA"
+    ],
+    "value": 370656.3959607422,
+    "cash": 0.0,
+    "cum_tax_paid": 411148.88706381724,
+    "cum_costs_paid": 16732.09088598126
+   },
+   {
+    "year": 2019,
+    "targets": [
+     "AMD",
+     "TRIP",
+     "AAP",
+     "CMG",
+     "HCA"
+    ],
+    "value": 401113.10395762883,
+    "cash": 0.0,
+    "cum_tax_paid": 418273.05093239876,
+    "cum_costs_paid": 18385.649716500157
+   },
+   {
+    "year": 2020,
+    "targets": [
+     "AMD",
+     "LRCX",
+     "KLAC",
+     "TGT",
+     "CPRT"
+    ],
+    "value": 472191.1108745314,
+    "cash": 0.0,
+    "cum_tax_paid": 446988.10943643114,
+    "cum_costs_paid": 19970.742662950062
+   },
+   {
+    "year": 2021,
+    "targets": [
+     "NVDA",
+     "PYPL",
+     "ALB",
+     "FCX",
+     "CDNS"
+    ],
+    "value": 607133.6820379863,
+    "cash": 0.0,
+    "cum_tax_paid": 522976.69739941886,
+    "cum_costs_paid": 21117.29792795316
+   },
+   {
+    "year": 2022,
+    "targets": [
+     "DVN",
+     "FTNT",
+     "F",
+     "FANG",
+     "NVDA"
+    ],
+    "value": 390895.13140001456,
+    "cash": 0.0,
+    "cum_tax_paid": 646485.7465451553,
+    "cum_costs_paid": 24170.12291018438
+   },
+   {
+    "year": 2023,
+    "targets": [
+     "OXY",
+     "MPC",
+     "XOM",
+     "SLB",
+     "VLO"
+    ],
+    "value": 394934.1310408068,
+    "cash": 0.0,
+    "cum_tax_paid": 656999.3034451595,
+    "cum_costs_paid": 25938.63561442102
+   },
+   {
+    "year": 2024,
+    "targets": [
+     "NVDA",
+     "META",
+     "RCL",
+     "CCL",
+     "AMD"
+    ],
+    "value": 707516.8987630643,
+    "cash": 0.0,
+    "cum_tax_paid": 659169.8271979996,
+    "cum_costs_paid": 27016.824938205627
+   },
+   {
+    "year": 2025,
+    "targets": [
+     "NVDA",
+     "UAL",
+     "AXON",
+     "AVGO",
+     "TRGP"
+    ],
+    "value": 593013.1903677217,
+    "cash": 0.0,
+    "cum_tax_paid": 808251.6019337487,
+    "cum_costs_paid": 29487.968506412733
+   }
+  ]
+ },
+ "4_sector5_sma200": {
+  "final_value": 659207.418811385,
+  "total_contributed": 360000.0,
+  "total_tax_paid": 750223.6877538115,
+  "total_costs_paid": 28797.759915469192,
+  "nav_cagr": 0.04833364237640625,
+  "money_weighted_irr": 0.03515144627655786,
+  "max_drawdown": -0.377521847464769,
+  "max_drawdown_peak": "2021-12-01",
+  "max_drawdown_trough": "2023-06-01",
+  "worst_calendar_year": 2025,
+  "worst_calendar_year_return": -0.24619835573913507,
+  "first_half_1996_2010": {
+   "cagr": 0.0661853310288738,
+   "max_drawdown": -0.24780117241630994,
+   "max_drawdown_peak": "2010-05-03",
+   "max_drawdown_trough": "2010-10-01",
+   "worst_year": 1998,
+   "worst_year_return": -0.1866131532058124,
+   "start_nav_rebased_final": 2.6151135182195047
+  },
+  "second_half_2011_2025": {
+   "cagr": 0.032888574427692774,
+   "max_drawdown": -0.377521847464769,
+   "max_drawdown_peak": "2021-12-01",
+   "max_drawdown_trough": "2023-06-01",
+   "worst_year": 2025,
+   "worst_year_return": -0.24619835573913496,
+   "start_nav_rebased_final": 1.624808194848666
+  },
+  "yearly": [
+   {
+    "year": 1996,
+    "targets": [
+     "BSX",
+     "CSCO",
+     "C",
+     "NKE",
+     "LMT"
+    ],
+    "value": 14563.33750565102,
+    "cash": 0.0,
+    "cum_tax_paid": 0.0,
+    "cum_costs_paid": 306.0
+   },
+   {
+    "year": 1997,
+    "targets": [
+     "TJX",
+     "INTC",
+     "COST",
+     "PCAR",
+     "USB"
+    ],
+    "value": 35816.10496410333,
+    "cash": 0.0,
+    "cum_tax_paid": 1180.1703103822224,
+    "cum_costs_paid": 650.7426027283178
+   },
+   {
+    "year": 1998,
+    "targets": [
+     "FITB",
+     "LLY",
+     "CMCSA",
+     "PH",
+     "COST"
+    ],
+    "value": 44479.311806791986,
+    "cash": 0.0,
+    "cum_tax_paid": 6862.952084675658,
+    "cum_costs_paid": 1027.0879603115127
+   },
+   {
+    "year": 1999,
+    "targets": [
+     "AAPL",
+     "LOW",
+     "SCHW",
+     "WMT",
+     "AMGN"
+    ],
+    "value": 74207.03767588177,
+    "cash": 0.0,
+    "cum_tax_paid": 14872.484430804685,
+    "cum_costs_paid": 1475.4098571060179
+   },
+   {
+    "year": 2000,
+    "targets": [
+     "ORCL",
+     "AMGN",
+     "MS",
+     "FCX",
+     "HD"
+    ],
+    "value": 74597.48426927783,
+    "cash": 74597.48426927783,
+    "cum_tax_paid": 26059.184787373808,
+    "cum_costs_paid": 1901.1207119765832
+   },
+   {
+    "year": 2001,
+    "targets": [
+     "CB",
+     "UNH",
+     "PPL",
+     "LUV",
+     "APA"
+    ],
+    "value": 86597.48426927783,
+    "cash": 86597.48426927783,
+    "cum_tax_paid": 26059.184787373808,
+    "cum_costs_paid": 1901.1207119765832
+   },
+   {
+    "year": 2002,
+    "targets": [
+     "BBY",
+     "BSX",
+     "FCX",
+     "SWK",
+     "MSFT"
+    ],
+    "value": 94997.03055376487,
+    "cash": 94997.03055376487,
+    "cum_tax_paid": 26234.400091600735,
+    "cum_costs_paid": 2078.9777016092157
+   },
+   {
+    "year": 2003,
+    "targets": [
+     "BSX",
+     "HAL",
+     "NEM",
+     "AFL",
+     "LMT"
+    ],
+    "value": 145259.34869653877,
+    "cash": 0.0,
+    "cum_tax_paid": 26234.400091600735,
+    "cum_costs_paid": 2357.4747321629784
+   },
+   {
+    "year": 2004,
+    "targets": [
+     "WMB",
+     "AES",
+     "GLW",
+     "FCX",
+     "HUM"
+    ],
+    "value": 165200.47452665135,
+    "cash": 0.0,
+    "cum_tax_paid": 48360.93046305703,
+    "cum_costs_paid": 3104.260984364367
+   },
+   {
+    "year": 2005,
+    "targets": [
+     "ADSK",
+     "SBUX",
+     "NUE",
+     "BIIB",
+     "CMI"
+    ],
+    "value": 170743.28163090104,
+    "cash": 0.0,
+    "cum_tax_paid": 60754.483184762415,
+    "cum_costs_paid": 3696.570394202153
+   },
+   {
+    "year": 2006,
+    "targets": [
+     "VLO",
+     "AAPL",
+     "HUM",
+     "AON",
+     "FCX"
+    ],
+    "value": 179308.76871789445,
+    "cash": 0.0,
+    "cum_tax_paid": 70683.54164550145,
+    "cum_costs_paid": 4316.743572624571
+   },
+   {
+    "year": 2007,
+    "targets": [
+     "NVDA",
+     "NUE",
+     "CMCSA",
+     "GS",
+     "TMO"
+    ],
+    "value": 191257.1608993347,
+    "cash": 191257.1608993347,
+    "cum_tax_paid": 86007.36791124144,
+    "cum_costs_paid": 5124.444738314972
+   },
+   {
+    "year": 2008,
+    "targets": [
+     "AMZN",
+     "AAPL",
+     "CMI",
+     "FCX",
+     "APA"
+    ],
+    "value": 203257.1608993347,
+    "cash": 203257.1608993347,
+    "cum_tax_paid": 86007.36791124144,
+    "cum_costs_paid": 5124.444738314972
+   },
+   {
+    "year": 2009,
+    "targets": [
+     "AMGN",
+     "WMT",
+     "AZO",
+     "PSA",
+     "SHW"
+    ],
+    "value": 240591.8672076395,
+    "cash": 0.0,
+    "cum_tax_paid": 86007.36791124144,
+    "cum_costs_paid": 5486.701899214316
+   },
+   {
+    "year": 2010,
+    "targets": [
+     "AMD",
+     "F",
+     "CBRE",
+     "FCX",
+     "ISRG"
+    ],
+    "value": 241550.75933967228,
+    "cash": 0.0,
+    "cum_tax_paid": 103303.50855954015,
+    "cum_costs_paid": 6970.452924174265
+   },
+   {
+    "year": 2011,
+    "targets": [
+     "CMI",
+     "AIG",
+     "AKAM",
+     "BKNG",
+     "EL"
+    ],
+    "value": 193898.20232533585,
+    "cash": 193898.20232533585,
+    "cum_tax_paid": 133922.56883377358,
+    "cum_costs_paid": 7824.021335717861
+   },
+   {
+    "year": 2012,
+    "targets": [
+     "ISRG",
+     "MA",
+     "OKE",
+     "ROST",
+     "FAST"
+    ],
+    "value": 214534.75015862487,
+    "cash": 0.0,
+    "cum_tax_paid": 141570.67620384775,
+    "cum_costs_paid": 8667.511074831704
+   },
+   {
+    "year": 2013,
+    "targets": [
+     "PHM",
+     "BAC",
+     "MPC",
+     "GILD",
+     "SHW"
+    ],
+    "value": 311356.3388130938,
+    "cash": 0.0,
+    "cum_tax_paid": 150154.17755065826,
+    "cum_costs_paid": 9379.796321910615
+   },
+   {
+    "year": 2014,
+    "targets": [
+     "NFLX",
+     "BBY",
+     "MU",
+     "BSX",
+     "AIZ"
+    ],
+    "value": 322569.5664017481,
+    "cash": 0.0,
+    "cum_tax_paid": 189771.7622499357,
+    "cum_costs_paid": 10243.06470934991
+   },
+   {
+    "year": 2015,
+    "targets": [
+     "LUV",
+     "EW",
+     "KR",
+     "MU",
+     "MAR"
+    ],
+    "value": 254340.85491140277,
+    "cash": 0.0,
+    "cum_tax_paid": 212305.5011025638,
+    "cum_costs_paid": 11611.080423460147
+   },
+   {
+    "year": 2016,
+    "targets": [
+     "NFLX",
+     "AMZN",
+     "NVDA",
+     "HRL",
+     "VLO"
+    ],
+    "value": 380077.962782528,
+    "cash": 0.0,
+    "cum_tax_paid": 214231.66207656663,
+    "cum_costs_paid": 12319.712325989927
+   },
+   {
+    "year": 2017,
+    "targets": [
+     "NVDA",
+     "OKE",
+     "FCX",
+     "DHR",
+     "PWR"
+    ],
+    "value": 433249.5399993394,
+    "cash": 0.0,
+    "cum_tax_paid": 271036.3850888557,
+    "cum_costs_paid": 13299.667289614625
+   },
+   {
+    "year": 2018,
+    "targets": [
+     "NRG",
+     "VRTX",
+     "WYNN",
+     "BA",
+     "NVDA"
+    ],
+    "value": 354191.8695046564,
+    "cash": 0.0,
+    "cum_tax_paid": 351775.47869129677,
+    "cum_costs_paid": 15971.856430384334
+   },
+   {
+    "year": 2019,
+    "targets": [
+     "AMD",
+     "CMG",
+     "HCA",
+     "MKC",
+     "AES"
+    ],
+    "value": 442871.7486496345,
+    "cash": 0.0,
+    "cum_tax_paid": 363500.2251714931,
+    "cum_costs_paid": 17599.48075074084
+   },
+   {
+    "year": 2020,
+    "targets": [
+     "AMD",
+     "TGT",
+     "CPRT",
+     "CMG",
+     "GPN"
+    ],
+    "value": 459357.8353642733,
+    "cash": 0.0,
+    "cum_tax_paid": 401552.67198657396,
+    "cum_costs_paid": 19302.00157001155
+   },
+   {
+    "year": 2021,
+    "targets": [
+     "NVDA",
+     "PYPL",
+     "ALB",
+     "IDXX",
+     "ROL"
+    ],
+    "value": 549738.2405339101,
+    "cash": 0.0,
+    "cum_tax_paid": 458018.7110843822,
+    "cum_costs_paid": 20424.26441439111
+   },
+   {
+    "year": 2022,
+    "targets": [
+     "DVN",
+     "FTNT",
+     "F",
+     "NUE",
+     "EXR"
+    ],
+    "value": 386699.70452900487,
+    "cash": 0.0,
+    "cum_tax_paid": 554908.2054217922,
+    "cum_costs_paid": 23297.849861755574
+   },
+   {
+    "year": 2023,
+    "targets": [
+     "OXY",
+     "CAH",
+     "NOC",
+     "ADM",
+     "WRB"
+    ],
+    "value": 382378.18751578487,
+    "cash": 0.0,
+    "cum_tax_paid": 566230.2096217643,
+    "cum_costs_paid": 25058.35767998929
+   },
+   {
+    "year": 2024,
+    "targets": [
+     "NVDA",
+     "META",
+     "RCL",
+     "GE",
+     "NRG"
+    ],
+    "value": 776864.0384480098,
+    "cash": 0.0,
+    "cum_tax_paid": 567041.2598864925,
+    "cum_costs_paid": 26111.858397863314
+   },
+   {
+    "year": 2025,
+    "targets": [
+     "NVDA",
+     "UAL",
+     "TRGP",
+     "CEG",
+     "RCL"
+    ],
+    "value": 659207.418811385,
+    "cash": 0.0,
+    "cum_tax_paid": 750223.6877538115,
+    "cum_costs_paid": 28797.759915469192
+   }
+  ]
+ },
+ "benchmark_spy_drip": {
+  "final_value": 2299985.367962239,
+  "total_contributed": 360000.0,
+  "total_tax_paid": 0.0,
+  "total_costs_paid": 1980.0,
+  "nav_cagr": 0.10079144234690718,
+  "money_weighted_irr": 0.10532653636353584,
+  "max_drawdown": -0.5291969041066358,
+  "max_drawdown_peak": "2007-10-01",
+  "max_drawdown_trough": "2009-03-02",
+  "worst_calendar_year": 2008,
+  "worst_calendar_year_return": -0.43240341318754927,
+  "first_half_1996_2010": {
+   "cagr": 0.061216009931465365,
+   "max_drawdown": -0.5291969041066358,
+   "max_drawdown_peak": "2007-10-01",
+   "max_drawdown_trough": "2009-03-02",
+   "worst_year": 2008,
+   "worst_year_return": -0.43240341318754927,
+   "start_nav_rebased_final": 2.4381302314460283
+  },
+  "second_half_2011_2025": {
+   "cagr": 0.13816318060012422,
+   "max_drawdown": -0.2378716895757811,
+   "max_drawdown_peak": "2020-01-02",
+   "max_drawdown_trough": "2020-04-01",
+   "worst_year": 2022,
+   "worst_year_return": -0.0820791361546962,
+   "start_nav_rebased_final": 6.967355688107326
+  },
+  "yearly": [
+   {
+    "year": 1996,
+    "value": 13369.15354846995
+   },
+   {
+    "year": 1997,
+    "value": 31492.653734670395
+   },
+   {
+    "year": 1998,
+    "value": 54389.413812147846
+   },
+   {
+    "year": 1999,
+    "value": 78921.72577060996
+   },
+   {
+    "year": 2000,
+    "value": 82177.46059302382
+   },
+   {
+    "year": 2001,
+    "value": 84002.63739076765
+   },
+   {
+    "year": 2002,
+    "value": 76514.88316572842
+   },
+   {
+    "year": 2003,
+    "value": 112149.79968698007
+   },
+   {
+    "year": 2004,
+    "value": 137033.81036106797
+   },
+   {
+    "year": 2005,
+    "value": 156094.02087469556
+   },
+   {
+    "year": 2006,
+    "value": 193915.29220549134
+   },
+   {
+    "year": 2007,
+    "value": 215868.0058601555
+   },
+   {
+    "year": 2008,
+    "value": 145350.30489538063
+   },
+   {
+    "year": 2009,
+    "value": 198305.47591626397
+   },
+   {
+    "year": 2010,
+    "value": 241623.28332874505
+   },
+   {
+    "year": 2011,
+    "value": 258143.50891411616
+   },
+   {
+    "year": 2012,
+    "value": 311970.305851152
+   },
+   {
+    "year": 2013,
+    "value": 426551.68095523026
+   },
+   {
+    "year": 2014,
+    "value": 496948.94633429724
+   },
+   {
+    "year": 2015,
+    "value": 515077.4276366922
+   },
+   {
+    "year": 2016,
+    "value": 589831.3202376299
+   },
+   {
+    "year": 2017,
+    "value": 731129.254589726
+   },
+   {
+    "year": 2018,
+    "value": 708715.9339384527
+   },
+   {
+    "year": 2019,
+    "value": 943590.615874433
+   },
+   {
+    "year": 2020,
+    "value": 1130889.3462546228
+   },
+   {
+    "year": 2021,
+    "value": 1469465.2527164673
+   },
+   {
+    "year": 2022,
+    "value": 1213548.7590097764
+   },
+   {
+    "year": 2023,
+    "value": 1544735.307647764
+   },
+   {
+    "year": 2024,
+    "value": 1942430.1984159758
+   },
+   {
+    "year": 2025,
+    "value": 2299985.367962239
+   }
+  ]
+ }
+}
